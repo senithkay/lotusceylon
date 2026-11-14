@@ -1,0 +1,205 @@
+{
+ "hero": {
+  "badge": "CURATED ENCOUNTERS & SIGNATURE BRANDS",
+  "title": "Moments of Pure Wonder",
+  "accent": "Handcrafted Ceylon Encounters",
+  "lead": "Beyond standard sightseeing lies the true soul of Ceylon. Discover our three specialized travel pillars and handcrafted cultural, wellness, and wildlife encounters across the sacred island."
+ },
+ "pillarsHead": {
+  "eyebrow": "Our Specialized Travel Pillars",
+  "title": "Three Dedicated Signature Brands",
+  "text": "Whether your journey is centered on ancient sacred pilgrimages, deep holistic Ayurvedic rejuvenation, or thrilling wildlife expeditions, our specialized divisions design every moment with mastery."
+ },
+ "pillars": [
+  {
+   "id": "artisan-heritage",
+   "image": "/assets/images/cultural/sigiriya-1.webp",
+   "alt": "Lotus Artisan Sacred Heritage Sri Lanka",
+   "icon": "🏛️",
+   "kicker": "Artisan & Cultural Heritage",
+   "title": "Lotus Artisan Travel",
+   "text": "Crafted for discerning travelers and cultural connoisseurs. Delve into Sri Lanka's 3,000-year living Buddhist chronicles, UNESCO rock citadels, private temple chanting ceremonies, Geoffrey Bawa architectural masterworks, and intimate masterclasses with heritage artisans.",
+   "tags": [
+    "Private Temple Rituals",
+    "Bawa Architecture Trails",
+    "Living Artisan Guilds"
+   ],
+   "cta": "Explore Cultural Journeys",
+   "href": "/tours/cultural"
+  },
+  {
+   "id": "lotus-ayu",
+   "image": "/assets/images/honeymoon/seaside-villa-1.webp",
+   "alt": "Lotus Ayu Holistic Ayurveda Sri Lanka",
+   "icon": "🌿",
+   "kicker": "Ayurveda & Healing",
+   "title": "Lotus Ayu Wellness",
+   "text": "Rooted in centuries-old Ceylon Ayurvedic wisdom. Each bespoke retreat is curated under the direction of licensed Ayurvedic physicians (Vaidyas), offering traditional Panchakarma detoxification, custom herbal elixir treatments, silent forest meditation, and organic restorative nutrition.",
+   "tags": [
+    "Physician-Led Panchakarma",
+    "Forest Hermitage Meditation",
+    "Restorative Herbal Sanctuaries"
+   ],
+   "cta": "Explore Wellness Retreats",
+   "href": "/tours/ayurvedic"
+  },
+  {
+   "id": "nature-odyssey",
+   "image": "/assets/images/wildlife/yala-leopard-1.webp",
+   "alt": "Lotus Nature Odyssey Wildlife Safari Sri Lanka",
+   "icon": "🐆",
+   "kicker": "Wildlife & Eco-Expeditions",
+   "title": "Lotus Nature Odyssey",
+   "text": "Sri Lanka is an extraordinary biodiversity sanctuary. From tracking leopards and sloth bears in Yala to witnessing the world's largest gathering of Asian elephants in Minneriya, ethical Blue Whale catamaran sailings, and Sinharaja primary rainforest treks with senior field naturalists.",
+   "tags": [
+    "Leopard & Sloth Bear Safaris",
+    "Ethical Whale Watching",
+    "Sinharaja Rainforest Biodiversity"
+   ],
+   "cta": "Explore Nature Expeditions",
+   "href": "/tours/wildlife"
+  }
+ ],
+ "encountersHead": {
+  "eyebrow": "Handcrafted Island Moments",
+  "title": "12 Unforgettable Ceylon Encounters",
+  "text": "Filter through our most sought-after private experiences, each seamlessly woven into your personalized itinerary."
+ },
+ "filters": [
+  {
+   "key": "all",
+   "label": "All Experiences (12)"
+  },
+  {
+   "key": "cultural",
+   "label": "Sacred & Cultural (4)"
+  },
+  {
+   "key": "wellness",
+   "label": "Wellness & Healing (3)"
+  },
+  {
+   "key": "wildlife",
+   "label": "Wildlife & Marine (3)"
+  },
+  {
+   "key": "highlands",
+   "label": "Highlands & Vistas (2)"
+  }
+ ],
+ "encounters": [
+  {
+   "filter": "cultural",
+   "image": "/assets/images/cultural/kandy-temple-of-tooth-4.webp",
+   "alt": "Evening Chanting at Temple of the Tooth",
+   "tag": "☸ Sacred & Cultural",
+   "title": "Evening Chanting & Oil Lamps",
+   "text": "Attend the reverent evening Tevava drum offering and light earthen lamps amidst the golden roof of Sri Dalada Maligawa in Kandy.",
+   "meta": "Location: Kandy · Duration: 2.5 Hours"
+  },
+  {
+   "filter": "cultural",
+   "image": "/assets/images/buddhist-heritage/jaya-sri-maha-bodhi-1.webp",
+   "alt": "Dawn Meditation at Jaya Sri Maha Bodhi",
+   "tag": "☸ Sacred & Cultural",
+   "title": "Dawn Bodhi Tree Meditation",
+   "text": "Experience profound morning stillness under the world's oldest historical tree, surrounded by silent pilgrims in white offering fresh lotus blossoms.",
+   "meta": "Location: Anuradhapura · Duration: 2 Hours"
+  },
+  {
+   "filter": "wildlife",
+   "image": "/assets/images/wildlife/yala-leopard-1.webp",
+   "alt": "Private Leopard Tracking in Yala",
+   "tag": "🐆 Wildlife & Marine",
+   "title": "Private Leopard Tracking Safari",
+   "text": "Custom luxury 4x4 safari with senior field naturalist into Yala's premier blocks, tracking apex leopards, sloth bears, and crocodiles at dawn.",
+   "meta": "Location: Yala National Park · Duration: Half Day"
+  },
+  {
+   "filter": "wildlife",
+   "image": "/assets/images/wildlife/minneriya-elephant-gathering-2.webp",
+   "alt": "The Great Elephant Gathering",
+   "tag": "🐆 Wildlife & Marine",
+   "title": "The Great Elephant Gathering",
+   "text": "Witness up to 300 Asian elephants congregate on the receding shores of the ancient Minneriya tank during the dry season—a world spectacle.",
+   "meta": "Location: Minneriya / Kaudulla · Duration: 3.5 Hours"
+  },
+  {
+   "filter": "wellness",
+   "image": "/assets/images/ayurveda/herbal-treatment-1.webp",
+   "alt": "Vaidya Ayurvedic Consultation",
+   "tag": "🌿 Wellness & Healing",
+   "title": "Physician Consultation & Shirodhara",
+   "text": "Personal pulse diagnosis by an Ayurvedic doctor, followed by warm rhythmic herbal oil Shirodhara therapy to quiet mental chatter and restore balance.",
+   "meta": "Location: Dedicated Retreats · Duration: Half Day"
+  },
+  {
+   "filter": "highlands",
+   "image": "/assets/images/hill-country/nine-arches-bridge-1.webp",
+   "alt": "Demodara Nine Arch Bridge Scenic Train",
+   "tag": "Highlands & Vistas",
+   "title": "Nine Arch Bridge Observation Train",
+   "text": "Ride Sri Lanka's famous hill-country railway through mist-wrapped pine forests, tea estates, and over the dramatic colonial brick viaduct in Ella.",
+   "meta": "Location: Kandy to Ella · Duration: Half Day"
+  },
+  {
+   "filter": "highlands",
+   "image": "/assets/images/hill-country/nuwara-eliya-tea-2.webp",
+   "alt": "Highland Tea Tasting Experience",
+   "tag": "Highlands & Vistas",
+   "title": "Master Tea Taster Immersion",
+   "text": "Stroll private estate tea rows with resident tea pluckers, followed by an artisanal tasting session of Silver Tips and Broken Orange Pekoe in Nuwara Eliya.",
+   "meta": "Location: Nuwara Eliya · Duration: 2.5 Hours"
+  },
+  {
+   "filter": "wildlife",
+   "image": "/assets/images/wildlife/mirissa-blue-whale-4.webp",
+   "alt": "Blue Whale Watching in Mirissa",
+   "tag": "🌊 Coastal Sanctuary",
+   "title": "Private Catamaran Whale Watching",
+   "text": "Sail off the south coast with a marine naturalist to respectfully observe the planet's largest creatures—Blue Whales and Spinner Dolphins.",
+   "meta": "Location: Mirissa · Duration: 4 Hours"
+  },
+  {
+   "filter": "cultural",
+   "image": "/assets/images/beach/mirissa-1.webp",
+   "alt": "Geoffrey Bawa Lunuganga Estate",
+   "tag": "☸ Sacred & Cultural",
+   "title": "Geoffrey Bawa Lunuganga Estate",
+   "text": "Walk the private country estate of legendary tropical modernist Geoffrey Bawa, exploring fifty years of garden design and tranquil lakeside courtyards.",
+   "meta": "Location: Bentota · Duration: 2.5 Hours"
+  },
+  {
+   "filter": "cultural",
+   "image": "/assets/images/cultural/galle-fort-5.webp",
+   "alt": "Traditional Mask Carving Guild",
+   "tag": "☸ Sacred & Cultural",
+   "title": "Traditional Artisan Guild Immersion",
+   "text": "Meet 5th-generation master carvers shaping sacred Kaduru-wood masks and handloom weavers preserving ancient motifs along the south-west coast.",
+   "meta": "Location: Ambalangoda · Duration: 2 Hours"
+  },
+  {
+   "filter": "wellness",
+   "image": "/assets/images/wildlife/sinharaja-rainforest-5.webp",
+   "alt": "Ritigala Forest Meditation Walk",
+   "tag": "🌿 Wellness & Healing",
+   "title": "Ritigala Ancient Hermitage Walk",
+   "text": "A guided silent walk through the ancient 1st-century BC strict monastery ruins of Ritigala, enveloped in cool evergreen canopy and medicinal herbs.",
+   "meta": "Location: Ritigala Sanctuary · Duration: 3 Hours"
+  },
+  {
+   "filter": "wellness",
+   "image": "/assets/images/beach/mirissa-1.webp",
+   "alt": "Madu Ganga River Cinnamon Island Safari",
+   "tag": "🌊 Coastal Sanctuary",
+   "title": "Madu River & Cinnamon Island",
+   "text": "Boat journey through 64 mangrove islands, visiting an ancient temple island and witnessing true Ceylon cinnamon peeling by generational growers.",
+   "meta": "Location: Balapitiya · Duration: 2.5 Hours"
+  }
+ ],
+ "plan": {
+  "eyebrow": "Artisanal Itinerary Planning",
+  "title": "Weave These Encounters Into Your Private Tour",
+  "text": "Every Lotus Ceylon itinerary is crafted from scratch. Let us know which moments of wonder speak to your heart, and our travel designers will arrange private access and chauffeured ease."
+ }
+}

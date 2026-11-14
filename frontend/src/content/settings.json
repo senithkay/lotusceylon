@@ -1,0 +1,226 @@
+{
+ "settings": {
+  "id": "global_settings",
+  "status": "published",
+  "updatedAt": "2026-10-25T20:00:00Z",
+  "companyName": "Lotus Ceylon International Tours & Services (Private) Limited",
+  "shortName": "Lotus Ceylon Tours",
+  "slogan": {
+   "en": "PURE JOURNEYS. SACRED EXPERIENCES.",
+   "zh": "纯粹之旅 · 神圣体验",
+   "de": "PURE JOURNEYS. SACRED EXPERIENCES.",
+   "fr": "PURE JOURNEYS. SACRED EXPERIENCES.",
+   "ru": "PURE JOURNEYS. SACRED EXPERIENCES.",
+   "es": "PURE JOURNEYS. SACRED EXPERIENCES.",
+   "it": "PURE JOURNEYS. SACRED EXPERIENCES.",
+   "ja": "PURE JOURNEYS. SACRED EXPERIENCES.",
+   "ar": "PURE JOURNEYS. SACRED EXPERIENCES.",
+   "hi": "PURE JOURNEYS. SACRED EXPERIENCES."
+  },
+  "foundedYear": 2014,
+  "phone": "+94 71 54 22 384",
+  "phoneRaw": "94715422384",
+  "email": "paliforbuddhism@gmail.com",
+  "secondaryEmail": "",
+  "address": {
+   "line1": "286/C, Niwandama South",
+   "city": "Ja-Ela",
+   "country": "Sri Lanka",
+   "postalCode": "11350",
+   "full": "286/C, Niwandama South, Ja-Ela, Sri Lanka 11350"
+  },
+  "coordinates": {
+   "lat": 7.0785,
+   "lng": 79.8913
+  },
+  "whatsapp": "+94 71 54 22 384",
+  "whatsappLink": "https://wa.me/94715422384",
+  "wechat": "FGUTaiwan90",
+  "line": "dpbs2024",
+  "qr": {
+   "whatsapp": "assets/qr/whatsapp-qr.png",
+   "wechat": "assets/qr/wechat-qr.png",
+   "line": "assets/qr/line-qr.png"
+  },
+  "socialLinks": {
+   "facebook": "",
+   "instagram": "",
+   "youtube": "",
+   "tripadvisor": "",
+   "twitter": "",
+   "googleMaps": "",
+   "bookingDotCom": ""
+  },
+  "counters": {
+   "founded": 2014,
+   "countries": 10,
+   "private_pct": 100,
+   "chat_channels": 3
+  },
+  "designer": {
+   "name": "Infinite Design",
+   "url": "https://infiniteweb.dev/"
+  },
+  "legalName": "Lotus Ceylon International Tours & Services (Private) Limited",
+  "companyReg": "PV 00374439",
+  "director": "Mallawa Arachchige Dhushantha Gihan Mallawaarachchi",
+  "sltdaLicense": "",
+  "linePhone": "+886 958 561 954",
+  "youtube": "https://youtube.com/@lotusceylontours",
+  "tripadvisor": ""
+ },
+ "team": [
+  {
+   "id": "dhushantha-gihan-mallawaarachchi",
+   "name": "Mallawa Arachchige Dhushantha Gihan Mallawaarachchi",
+   "role": "Director",
+   "country": "Sri Lanka",
+   "flag": "🇱🇰",
+   "photo": {
+    "cloudinaryPublicId": "lotus-ceylon/team/dhushantha-gihan",
+    "alt": "Director Mallawa Arachchige Dhushantha Gihan Mallawaarachchi",
+    "url": "assets/images/team/avatar-dg.svg"
+   },
+   "bio": "Introduction coming soon",
+   "sortOrder": 1,
+   "published": true
+  },
+  {
+   "id": "kuenga-yarpel",
+   "name": "Mr. Kuenga Yarpel",
+   "role": "The Lotus Representative, Bhutan",
+   "country": "Bhutan",
+   "flag": "🇧🇹",
+   "photo": {
+    "cloudinaryPublicId": "lotus-ceylon/team/kuenga-yarpel",
+    "alt": "Mr. Kuenga Yarpel, The Lotus Representative, Bhutan",
+    "url": "assets/images/team/avatar-ky.svg"
+   },
+   "bio": "Introduction coming soon",
+   "sortOrder": 2,
+   "published": true
+  }
+ ],
+ "faqs": [
+  {
+   "id": "faq-01",
+   "order": 1,
+   "status": "published",
+   "category": "Planning",
+   "question": {
+    "en": "When is the best time to visit Sri Lanka?",
+    "zh": "什么时候去斯里兰卡旅游最好？",
+    "de": "When is the best time to visit Sri Lanka?",
+    "fr": "When is the best time to visit Sri Lanka?",
+    "ru": "When is the best time to visit Sri Lanka?",
+    "es": "When is the best time to visit Sri Lanka?",
+    "it": "When is the best time to visit Sri Lanka?",
+    "ja": "When is the best time to visit Sri Lanka?",
+    "ar": "When is the best time to visit Sri Lanka?",
+    "hi": "When is the best time to visit Sri Lanka?"
+   },
+   "answer": {
+    "en": "Sri Lanka is a year-round destination thanks to its unique twin monsoon climate. From December to April, the South and West coasts and the Hill Country enjoy sunny, dry weather. From May to September, the East Coast (Pasikudah, Trincomalee) has crystal-clear waters and golden sunshine.",
+    "zh": "斯里兰卡全年皆宜旅游。12月至4月是西南部海滩与高山茶园的最佳季节；5月至9月则是东海岸亭可马里等海域的黄金旅游季。",
+    "de": "Sri Lanka is a year-round destination thanks to its unique twin monsoon climate. From December to April, the South and West coasts and the Hill Country enjoy sunny, dry weather. From May to September, the East Coast (Pasikudah, Trincomalee) has crystal-clear waters and golden sunshine.",
+    "fr": "Sri Lanka is a year-round destination thanks to its unique twin monsoon climate. From December to April, the South and West coasts and the Hill Country enjoy sunny, dry weather. From May to September, the East Coast (Pasikudah, Trincomalee) has crystal-clear waters and golden sunshine.",
+    "ru": "Sri Lanka is a year-round destination thanks to its unique twin monsoon climate. From December to April, the South and West coasts and the Hill Country enjoy sunny, dry weather. From May to September, the East Coast (Pasikudah, Trincomalee) has crystal-clear waters and golden sunshine.",
+    "es": "Sri Lanka is a year-round destination thanks to its unique twin monsoon climate. From December to April, the South and West coasts and the Hill Country enjoy sunny, dry weather. From May to September, the East Coast (Pasikudah, Trincomalee) has crystal-clear waters and golden sunshine.",
+    "it": "Sri Lanka is a year-round destination thanks to its unique twin monsoon climate. From December to April, the South and West coasts and the Hill Country enjoy sunny, dry weather. From May to September, the East Coast (Pasikudah, Trincomalee) has crystal-clear waters and golden sunshine.",
+    "ja": "Sri Lanka is a year-round destination thanks to its unique twin monsoon climate. From December to April, the South and West coasts and the Hill Country enjoy sunny, dry weather. From May to September, the East Coast (Pasikudah, Trincomalee) has crystal-clear waters and golden sunshine.",
+    "ar": "Sri Lanka is a year-round destination thanks to its unique twin monsoon climate. From December to April, the South and West coasts and the Hill Country enjoy sunny, dry weather. From May to September, the East Coast (Pasikudah, Trincomalee) has crystal-clear waters and golden sunshine.",
+    "hi": "Sri Lanka is a year-round destination thanks to its unique twin monsoon climate. From December to April, the South and West coasts and the Hill Country enjoy sunny, dry weather. From May to September, the East Coast (Pasikudah, Trincomalee) has crystal-clear waters and golden sunshine."
+   }
+  },
+  {
+   "id": "faq-02",
+   "order": 2,
+   "status": "published",
+   "category": "Visa",
+   "question": {
+    "en": "How do I obtain a Sri Lanka tourist visa (ETA)?",
+    "zh": "如何办理斯里兰卡旅游电子签证？",
+    "de": "How do I obtain a Sri Lanka tourist visa (ETA)?",
+    "fr": "How do I obtain a Sri Lanka tourist visa (ETA)?",
+    "ru": "How do I obtain a Sri Lanka tourist visa (ETA)?",
+    "es": "How do I obtain a Sri Lanka tourist visa (ETA)?",
+    "it": "How do I obtain a Sri Lanka tourist visa (ETA)?",
+    "ja": "How do I obtain a Sri Lanka tourist visa (ETA)?",
+    "ar": "How do I obtain a Sri Lanka tourist visa (ETA)?",
+    "hi": "How do I obtain a Sri Lanka tourist visa (ETA)?"
+   },
+   "answer": {
+    "en": "Visitors can obtain an Electronic Travel Authorization (ETA) online prior to arrival via the official Sri Lankan immigration portal. Visas are typically approved within 24 to 48 hours. Our tour executives provide step-by-step assistance with your application.",
+    "zh": "游客可通过斯里兰卡官方电子签证系统在线申请ETA电子签证，通常在24至48小时内出签。",
+    "de": "Visitors can obtain an Electronic Travel Authorization (ETA) online prior to arrival via the official Sri Lankan immigration portal. Visas are typically approved within 24 to 48 hours. Our tour executives provide step-by-step assistance with your application.",
+    "fr": "Visitors can obtain an Electronic Travel Authorization (ETA) online prior to arrival via the official Sri Lankan immigration portal. Visas are typically approved within 24 to 48 hours. Our tour executives provide step-by-step assistance with your application.",
+    "ru": "Visitors can obtain an Electronic Travel Authorization (ETA) online prior to arrival via the official Sri Lankan immigration portal. Visas are typically approved within 24 to 48 hours. Our tour executives provide step-by-step assistance with your application.",
+    "es": "Visitors can obtain an Electronic Travel Authorization (ETA) online prior to arrival via the official Sri Lankan immigration portal. Visas are typically approved within 24 to 48 hours. Our tour executives provide step-by-step assistance with your application.",
+    "it": "Visitors can obtain an Electronic Travel Authorization (ETA) online prior to arrival via the official Sri Lankan immigration portal. Visas are typically approved within 24 to 48 hours. Our tour executives provide step-by-step assistance with your application.",
+    "ja": "Visitors can obtain an Electronic Travel Authorization (ETA) online prior to arrival via the official Sri Lankan immigration portal. Visas are typically approved within 24 to 48 hours. Our tour executives provide step-by-step assistance with your application.",
+    "ar": "Visitors can obtain an Electronic Travel Authorization (ETA) online prior to arrival via the official Sri Lankan immigration portal. Visas are typically approved within 24 to 48 hours. Our tour executives provide step-by-step assistance with your application.",
+    "hi": "Visitors can obtain an Electronic Travel Authorization (ETA) online prior to arrival via the official Sri Lankan immigration portal. Visas are typically approved within 24 to 48 hours. Our tour executives provide step-by-step assistance with your application."
+   }
+  },
+  {
+   "id": "faq-03",
+   "order": 3,
+   "status": "published",
+   "category": "Private Tours",
+   "question": {
+    "en": "Are Lotus Ceylon tours 100% private and customizable?",
+    "zh": "Lotus Ceylon的行程是100%私人定制的吗？",
+    "de": "Are Lotus Ceylon tours 100% private and customizable?",
+    "fr": "Are Lotus Ceylon tours 100% private and customizable?",
+    "ru": "Are Lotus Ceylon tours 100% private and customizable?",
+    "es": "Are Lotus Ceylon tours 100% private and customizable?",
+    "it": "Are Lotus Ceylon tours 100% private and customizable?",
+    "ja": "Are Lotus Ceylon tours 100% private and customizable?",
+    "ar": "Are Lotus Ceylon tours 100% private and customizable?",
+    "hi": "Are Lotus Ceylon tours 100% private and customizable?"
+   },
+   "answer": {
+    "en": "Yes! Every journey is 100% private. You will have your own dedicated, modern air-conditioned vehicle, a licensed English or multilingual chauffeur-guide, and flexibility to adjust daily timings at your own pace.",
+    "zh": "是的，所有行程均为100%独立成团的私家专车之旅，配备专业外语司机导游，行程节奏完全由您自主掌控。",
+    "de": "Yes! Every journey is 100% private. You will have your own dedicated, modern air-conditioned vehicle, a licensed English or multilingual chauffeur-guide, and flexibility to adjust daily timings at your own pace.",
+    "fr": "Yes! Every journey is 100% private. You will have your own dedicated, modern air-conditioned vehicle, a licensed English or multilingual chauffeur-guide, and flexibility to adjust daily timings at your own pace.",
+    "ru": "Yes! Every journey is 100% private. You will have your own dedicated, modern air-conditioned vehicle, a licensed English or multilingual chauffeur-guide, and flexibility to adjust daily timings at your own pace.",
+    "es": "Yes! Every journey is 100% private. You will have your own dedicated, modern air-conditioned vehicle, a licensed English or multilingual chauffeur-guide, and flexibility to adjust daily timings at your own pace.",
+    "it": "Yes! Every journey is 100% private. You will have your own dedicated, modern air-conditioned vehicle, a licensed English or multilingual chauffeur-guide, and flexibility to adjust daily timings at your own pace.",
+    "ja": "Yes! Every journey is 100% private. You will have your own dedicated, modern air-conditioned vehicle, a licensed English or multilingual chauffeur-guide, and flexibility to adjust daily timings at your own pace.",
+    "ar": "Yes! Every journey is 100% private. You will have your own dedicated, modern air-conditioned vehicle, a licensed English or multilingual chauffeur-guide, and flexibility to adjust daily timings at your own pace.",
+    "hi": "Yes! Every journey is 100% private. You will have your own dedicated, modern air-conditioned vehicle, a licensed English or multilingual chauffeur-guide, and flexibility to adjust daily timings at your own pace."
+   }
+  },
+  {
+   "id": "faq-04",
+   "order": 4,
+   "status": "published",
+   "category": "Chauffeurs & Vehicles",
+   "question": {
+    "en": "What vehicles do you use and are drivers licensed?",
+    "zh": "你们使用什么车型？司机有专业执照吗？",
+    "de": "What vehicles do you use and are drivers licensed?",
+    "fr": "What vehicles do you use and are drivers licensed?",
+    "ru": "What vehicles do you use and are drivers licensed?",
+    "es": "What vehicles do you use and are drivers licensed?",
+    "it": "What vehicles do you use and are drivers licensed?",
+    "ja": "What vehicles do you use and are drivers licensed?",
+    "ar": "What vehicles do you use and are drivers licensed?",
+    "hi": "What vehicles do you use and are drivers licensed?"
+   },
+   "answer": {
+    "en": "We maintain a premium fleet of Toyota KDH luxury vans, Prado/Land Cruiser SUVs, and luxury sedans. All vehicles are fully insured with commercial passenger coverage, and all chauffeur-guides are vetted and SLTDA licensed.",
+    "zh": "我们配备全新丰田豪华商务车和越野车，全车商业保险，所有司机导游均持有斯里兰卡国家旅游局官方执照。",
+    "de": "We maintain a premium fleet of Toyota KDH luxury vans, Prado/Land Cruiser SUVs, and luxury sedans. All vehicles are fully insured with commercial passenger coverage, and all chauffeur-guides are vetted and SLTDA licensed.",
+    "fr": "We maintain a premium fleet of Toyota KDH luxury vans, Prado/Land Cruiser SUVs, and luxury sedans. All vehicles are fully insured with commercial passenger coverage, and all chauffeur-guides are vetted and SLTDA licensed.",
+    "ru": "We maintain a premium fleet of Toyota KDH luxury vans, Prado/Land Cruiser SUVs, and luxury sedans. All vehicles are fully insured with commercial passenger coverage, and all chauffeur-guides are vetted and SLTDA licensed.",
+    "es": "We maintain a premium fleet of Toyota KDH luxury vans, Prado/Land Cruiser SUVs, and luxury sedans. All vehicles are fully insured with commercial passenger coverage, and all chauffeur-guides are vetted and SLTDA licensed.",
+    "it": "We maintain a premium fleet of Toyota KDH luxury vans, Prado/Land Cruiser SUVs, and luxury sedans. All vehicles are fully insured with commercial passenger coverage, and all chauffeur-guides are vetted and SLTDA licensed.",
+    "ja": "We maintain a premium fleet of Toyota KDH luxury vans, Prado/Land Cruiser SUVs, and luxury sedans. All vehicles are fully insured with commercial passenger coverage, and all chauffeur-guides are vetted and SLTDA licensed.",
+    "ar": "We maintain a premium fleet of Toyota KDH luxury vans, Prado/Land Cruiser SUVs, and luxury sedans. All vehicles are fully insured with commercial passenger coverage, and all chauffeur-guides are vetted and SLTDA licensed.",
+    "hi": "We maintain a premium fleet of Toyota KDH luxury vans, Prado/Land Cruiser SUVs, and luxury sedans. All vehicles are fully insured with commercial passenger coverage, and all chauffeur-guides are vetted and SLTDA licensed."
+   }
+  }
+ ]
+}

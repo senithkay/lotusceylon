@@ -1,0 +1,1687 @@
+[
+ {
+  "slug": "cultural",
+  "metaTitle": "Sri Lanka Cultural Tours & Heritage Expeditions | Lotus Ceylon",
+  "metaDescription": "Immerse in three millennia of living heritage with Lotus Ceylon. Explore the ancient Cultural Triangle, Sigiriya Rock Citadel, Temple of the Tooth, and sacred UNESCO sites with private luxury chauffeur guides.",
+  "data": {
+   "title": "Sri Lanka Cultural Tours",
+   "titleHighlight": "& Sacred Heritage Expeditions",
+   "tagline": "SACRED KINGDOMS • UNESCO LIVING HERITAGE",
+   "description": "Journey across 2,300+ years of recorded Buddhist history. From sky palaces perched atop dramatic monadnocks to candlelit evening temple pujas and ancient royal reservoirs, immerse in the authentic soul of Ceylon with our bespoke, private guided cultural expeditions.",
+   "overviewTitle": "Ancient Kingdoms, Sacred Shrines & Timeless Traditions",
+   "overviewText": "Step into an ancient realm where sacred bodhi trees have been lovingly tended for millennia, where giant stone Buddhas gaze serenely over forest monasteries, and where evening temple oil lamps flicker to the hypnotic rhythm of traditional drums.",
+   "watermark": "living heritage",
+   "heroImage": "assets/tours/cultural/hero.jpg",
+   "mapHeading": "Discover Sri Lanka’s Timeless Cultural Routes",
+   "mapDescription": "Follow the historic cultural route through sacred cities, rock-cut cave temples, traditional villages, and UNESCO World Heritage sites."
+  },
+  "hero": {
+   "badge": "🏛️ SACRED KINGDOMS • UNESCO LIVING HERITAGE",
+   "title": "Sri Lanka Cultural & Heritage Tours",
+   "accent": "Ancient Kingdoms & Living Sacred Traditions",
+   "lead": "Journey across 2,300+ years of recorded Buddhist history. From sky palaces perched atop dramatic monadnocks to candlelit evening temple pujas and ancient royal reservoirs, immerse in the authentic soul of Ceylon with our bespoke, private guided cultural expeditions.",
+   "primaryCta": "Explore Itineraries",
+   "secondaryCta": "Design Custom Cultural Tour",
+   "image": "/assets/images/cultural/sigiriya-1.webp"
+  },
+  "overview": {
+   "watermark": "living heritage",
+   "title": "Ancient Kingdoms, Sacred Shrines",
+   "accent": "& Timeless Traditions",
+   "paragraphs": [
+    "Step into a land where every smile tells a story, every temple whispers history, and every meal is a celebration. Our cultural tours take you beyond standard sightseeing into the real Sri Lanka. Walk ancient paths, share tea with locals, witness timeless rituals, and feel the island’s rhythm in your soul. Whether it’s a village drumbeat or a monk’s quiet chant, you’ll carry the spirit of Ceylon long after your journey ends.",
+    "At Lotus Ceylon, our cultural journeys invite you into private artisan ateliers, sacred evening temple pujas, and authentic local encounters crafted exclusively for you—all escorted by your private, licensed chauffeur guide."
+   ]
+  },
+  "packagesSection": {
+   "watermark": "exclusive",
+   "title": "Curated Cultural Tour Packages",
+   "accent": "",
+   "subtitle": "Each itinerary is 100% customizable. Adjust destinations, duration, hotel tiers, and cultural experiences to match your travel rhythm.",
+   "cards": [
+    {
+     "slug": "royal-kingdoms-sacred-temples",
+     "image": "/assets/images/cultural/sigiriya-1.webp",
+     "badge": "Recommended for Culture, History Enthusiasts",
+     "duration": "5 Nights / 6 Days",
+     "label": "Signature Cultural Triangle",
+     "title": "Royal Kingdoms & Sacred Temples",
+     "route": "Negombo • Dambulla • Sigiriya • Polonnaruwa • Kandy • Colombo",
+     "desc": "Immerse in the quintessential heart of ancient Ceylon. Ascend the 5th-century Sigiriya Rock Fortress at dawn, cycle through the royal ruins of Polonnaruwa, marvel at Dambulla’s cave frescoes, and receive evening blessings at the Temple of the Sacred Tooth Relic.",
+     "highlights": [
+      "Sigiriya 5th-Century Lion Rock Fortress Dawn Ascent",
+      "Polonnaruwa Medieval Royal Capital Cycling Tour",
+      "Dambulla Golden Rock Cave Frescoes & Statues",
+      "Kandy Sacred Tooth Relic Temple Evening Puja"
+     ]
+    },
+    {
+     "slug": "the-sacred-lotus-triangle",
+     "image": "/assets/images/cultural/sigiriya-1.webp",
+     "badge": "Recommended for Culture, Scenic Explorers",
+     "duration": "8 Nights / 9 Days",
+     "label": "Grand Island Heritage",
+     "title": "The Sacred Lotus Triangle",
+     "route": "Negombo • Anuradhapura • Sigiriya • Polonnaruwa • Kandy • Colombo",
+     "desc": "A grand, immersive expedition spanning ancient northern Tamil heritage in Jaffna, the sacred first capital of Anuradhapura, highland colonial tea estates, and the 17th-century ramparts of UNESCO Galle Dutch Fort.",
+     "highlights": [
+      "Sacred City of Anuradhapura & Jaya Sri Maha Bodhi",
+      "Jaffna Dutch Fort, Nallur Kovil & Nagadeepa Island",
+      "Sigiriya Rock, Dambulla & Ritigala Forest Hermitage",
+      "UNESCO Galle Dutch Fort Sunset Ramparts Walk"
+     ]
+    },
+    {
+     "slug": "three-millennia-of-living-heritage",
+     "image": "/assets/images/cultural/kandy-temple-of-tooth-4.webp",
+     "badge": "Recommended for Cultural Travelers",
+     "duration": "14 Nights / 15 Days",
+     "label": "Royal Heritage Express",
+     "title": "Three Millennia of Living Heritage",
+     "route": "Negombo • Wilpattu • Jaffna • Anuradhapura • Dambulla • Sigiriya • Kandy • Nuwara Eliya • Galle • Colombo",
+     "desc": "Designed for travelers seeking a profound cultural encounter in a compact timeframe. Delve into the UNESCO wonders of Dambulla Cave Temple, climb the iconic Sigiriya Rock, and explore the royal lakeside sanctuary of Kandy.",
+     "highlights": [
+      "Dambulla Cave Temple 150+ Buddha Sculptures",
+      "Sigiriya 5th-Century Sky Fortress Exploration",
+      "Traditional Catamaran Ride & Rural Village Immersion",
+      "Kandy Royal Palace & Peradeniya Botanical Gardens"
+     ]
+    }
+   ]
+  },
+  "comparisonIntro": {
+   "eyebrow": "SIDE-BY-SIDE ITINERARY COMPARISON",
+   "title": "Compare Destinations & Sights",
+   "note": "Review how each Cultural itinerary traverses Sri Lanka’s iconic destinations, cultural landmarks, and nature reserves."
+  },
+  "circuit": {
+   "eyebrow": "SACRED KINGDOMS & LIVING HERITAGE CIRCUIT",
+   "quote": "“In Ceylon, history is not preserved behind glass — it breathes in living stone, sacred bodhi leaves, and millennia of unbroken devotion.”",
+   "quoteCaption": "Lotus Ceylon Cultural Odyssey",
+   "title": "Discover Sri Lanka’s Timeless Cultural Routes:",
+   "accent": "Ancient Citadels, Rock Temples & Living Traditions",
+   "leadHtml": "Traverse the legendary Cultural Triangle through centuries of royal capitals, monumental dagobas, and UNESCO World Heritage sanctuaries. From the sacred 2,300-year-old Bo Tree in <strong>Anuradhapura</strong> and the towering 5th-century sky fortress of <strong>Sigiriya</strong> to the golden-roofed Temple of the Sacred Tooth Relic in <strong>Kandy</strong> and the Dutch maritime bastions of <strong>Galle</strong>, experience Ceylon’s deep soul guided by expert cultural historians.",
+   "label": "Signature Cultural Circuit:",
+   "stops": [
+    "Colombo",
+    "Anuradhapura",
+    "Sigiriya Citadel",
+    "Polonnaruwa",
+    "Dambulla",
+    "Kandy",
+    "Galle Fort"
+   ],
+   "highlights": [
+    "8 UNESCO World Heritage Sites",
+    "2,500+ Years Living Devotion",
+    "Ancient Capital Cycling Safaris",
+    "Sacred Evening Temple Pujas"
+   ],
+   "ctaPrimary": "Plan Your Custom Tour ➔",
+   "ctaWhatsapp": "Chat on WhatsApp"
+  },
+  "seasons": {
+   "watermark": "seasons",
+   "title": "When to Experience Sri Lanka's Culture",
+   "accent": "Year-Round Heritage & Festivals Guide",
+   "cards": [
+    {
+     "badge": "November to April",
+     "title": "Cultural Triangle Dry Season",
+     "locations": "Sigiriya • Dambulla • Anuradhapura • Polonnaruwa",
+     "text": "Clear blue skies, comfortable morning temperatures, and spectacular golden sunlight illuminate the ancient stone citadel of Sigiriya and monastic ruins.",
+     "perks": [
+      {
+       "label": "Prime Activities",
+       "text": "Dawn climb up Sigiriya Lion Rock, open-air cycling through royal gardens, walking through ancient monastic ruins."
+      },
+      {
+       "label": "Ideal For",
+       "text": "Photographers, heritage lovers, and families seeking comfortable walking temperatures."
+      }
+     ]
+    },
+    {
+     "badge": "July to August",
+     "title": "Grand Festival Season (Perahera)",
+     "locations": "Kandy • Kataragama • Jaffna • Colombo",
+     "text": "Asia’s most spectacular torchlit pageant—the Kandy Esala Perahera—transforms the royal hill capital with fire dancers, drummers, and lavishly caparisoned elephants.",
+     "perks": [
+      {
+       "label": "Prime Activities",
+       "text": "Reserved VIP balcony seating for the Kandy Esala Perahera, traditional drumming workshops, temple blessings."
+      },
+      {
+       "label": "Ideal For",
+       "text": "Travelers seeking rare spiritual pageantry and once-in-a-lifetime cultural celebrations."
+      }
+     ]
+    }
+   ]
+  },
+  "experiences": {
+   "watermark": "experiences",
+   "title": "Top Cultural & Heritage Experiences",
+   "accent": "",
+   "items": [
+    {
+     "title": "Sigiriya Dawn Sky Citadel Ascent",
+     "text": "Climb the dramatic 5th-century rock fortress at sunrise before the heat sets in, gazing over water gardens and ancient frescoes."
+    },
+    {
+     "title": "Dambulla Cave Frescoes & Statues",
+     "text": "Explore five sacred cave sanctuaries hollowed out beneath a towering granite ridge, filled with 150+ gilded Buddha statues."
+    },
+    {
+     "title": "Kandy Tooth Relic Evening Puja",
+     "text": "Experience the hypnotic rhythm of traditional temple drums and fragrant lotus blossom offerings during sacred evening puja rituals."
+    },
+    {
+     "title": "Polonnaruwa Royal Ruins Cycling",
+     "text": "Pedal under the canopy of ancient banyan trees among royal audience halls, lotus baths, and the monumental stone Buddhas of Gal Vihara."
+    },
+    {
+     "title": "Traditional Village Catamaran Safari",
+     "text": "Glide across lily-covered lakes on a wooden catamaran to a rural village compound for an authentic wood-fired clay pot culinary lunch."
+    },
+    {
+     "title": "UNESCO Galle Dutch Fort Sunset Walk",
+     "text": "Stroll along 400-year-old cobblestone lanes, artisan jewellery boutiques, colonial ramparts, and the iconic white lighthouse at dusk."
+    }
+   ]
+  },
+  "faqs": {
+   "watermark": "questions",
+   "title": "Cultural Travel FAQs & Customs Guide",
+   "accent": "",
+   "subtitle": "",
+   "items": [
+    {
+     "q": "What should I wear when visiting sacred temples and Buddhist shrines?",
+     "a": "Modest dress is required out of respect. Shoulders and knees must be fully covered (white or light-colored cotton/linen attire is customary and admired). Footwear and hats/caps must be removed before entering temple compounds; socks are recommended during hot midday hours to protect your feet from warm stone pathways."
+    },
+    {
+     "q": "Is photography permitted inside temples and near sacred statues?",
+     "a": "Photography is generally welcomed, but you must never pose with your back turned directly to a Buddha statue, as this is considered disrespectful. Flash photography is strictly prohibited near ancient wall murals and frescoes (such as Sigiriya frescoes and Dambulla caves) to preserve delicate ancient pigments. Your private chauffeur guide will advise you at every site."
+    },
+    {
+     "q": "How physically demanding is the Sigiriya Rock Fortress climb?",
+     "a": "The climb involves approximately 1,200 steps with secure handrails and resting platforms at the Lion’s Paw terrace. With Lotus Ceylon, we schedule your ascent in the early morning (around 7:00 AM) to avoid the midday heat and crowds. A moderate level of fitness is sufficient, and your private guide will adjust the pacing to suit your comfort."
+    },
+    {
+     "q": "Can Lotus Ceylon cultural itineraries be customized for families or seniors?",
+     "a": "Yes, absolutely! Every itinerary is 100% tailor-made. For families with children or seniors, we curate gently-paced itineraries featuring ground-level heritage sites, luxury air-conditioned private vehicles, boutique heritage stays with swimming pools, and immersive village experiences."
+    },
+    {
+     "q": "What currency is used, and are credit cards widely accepted?",
+     "a": "Sri Lanka’s currency is the Sri Lankan Rupee (LKR). Major international credit cards (Visa and MasterCard) are widely accepted at all heritage hotels, luxury resorts, and restaurants. ATMs are readily available across all cultural towns including Negombo, Kandy, Dambulla, Anuradhapura, and Colombo. Having small cash notes is helpful for temple donation boxes and local artisan stalls."
+    },
+    {
+     "q": "Why choose Lotus Ceylon for your cultural expedition?",
+     "a": "Exploring 3,000 years of civilization requires deep cultural insight. Lotus Ceylon provides licensed national tourist chauffeur guides with scholarly historical expertise, private luxury air-conditioned vehicles, pre-booked priority entrance tickets, and 24/7 concierge support so you can absorb the wonder of ancient Ceylon in effortless comfort."
+    }
+   ]
+  },
+  "planCta": {
+   "eyebrow": "100% Bespoke Cultural Curation",
+   "title": "Plan Your Dream Sri Lanka Cultural Tour",
+   "text": "Speak directly with our senior heritage specialists. We will craft a personalized cultural itinerary tailored to your pace, boutique hotel preferences, and sacred site desires.",
+   "buttons": [
+    {
+     "label": "Start Your Cultural Inquiry ➔",
+     "href": "/inquiry?category=Cultural+Tours"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "buddhist-heritage",
+  "metaTitle": "Buddhist Heritage & Sacred Pilgrimages | Lotus Ceylon Luxury Tours",
+  "metaDescription": "Embark on transformative Buddhist pilgrimage journeys across Sri Lanka. Visit the sacred Jaya Sri Maha Bodhi, Ruwanwelisaya, Mihintale, and the Temple of the Sacred Tooth Relic.",
+  "data": {
+   "title": {
+    "en": "Buddhist Heritage",
+    "zh": "佛教遗迹与神圣朝圣"
+   },
+   "titleHighlight": null,
+   "tagline": null,
+   "description": {
+    "en": "Follow in the footsteps of ancient pilgrims across living stupas, sacred Bodhi shrines, rock-carved Buddhas, and forest hermitages.",
+    "zh": "追寻古老朝圣者的足迹，探访巍峨佛塔、神圣菩提树、摩崖巨佛与深林古刹。"
+   },
+   "overviewTitle": null,
+   "overviewText": null,
+   "watermark": null,
+   "heroImage": null,
+   "mapHeading": null,
+   "mapDescription": null
+  },
+  "hero": {
+   "badge": "SACRED DHAMMA PILGRIMAGES",
+   "title": "Buddhist Heritage Tours",
+   "accent": "PURE JOURNEYS. SACRED EXPERIENCES.",
+   "lead": "",
+   "primaryCta": "",
+   "secondaryCta": "",
+   "image": "/assets/images/buddhist-heritage/ruwanwelisaya-2.webp"
+  },
+  "overview": {
+   "watermark": "Living Spiritual Traditions",
+   "title": "Walk the Footsteps of the Enlightened Ones",
+   "accent": "",
+   "paragraphs": [
+    "Sri Lanka has nurtured the Theravada Buddhist Dhamma unbroken for over 2,300 years. Lotus Ceylon crafts deeply reverent, private pilgrimages to the island's most sanctified temples, ancient stupas, and contemplative forest hermitages."
+   ]
+  },
+  "packagesSection": {
+   "watermark": "",
+   "title": "",
+   "accent": "",
+   "subtitle": "",
+   "cards": [
+    {
+     "slug": "the-sacred-bodhi-ancient-kingdoms",
+     "image": "/assets/images/buddhist-heritage/jaya-sri-maha-bodhi-1.webp",
+     "badge": "Signature Pilgrimage",
+     "duration": "8 Days / 7 Nights",
+     "label": "🕊️ Reverent Pace",
+     "title": "The Sacred Bodhi & Ancient Kingdoms",
+     "route": "",
+     "desc": "Experience morning puja offerings at the oldest living human-planted tree in recorded history (Jaya Sri Maha Bodhi), circumambulate the great Ruwanwelisaya, and meditate beneath Mihintale’s granite peak.",
+     "highlights": [],
+     "price": "From $1,450 / person"
+    },
+    {
+     "slug": "the-sacred-tooth-monastic-sanctuaries",
+     "image": "/assets/images/buddhist-heritage/temple-of-the-tooth-4.webp",
+     "badge": "Deep Dhamma Trail",
+     "duration": "10 Days / 9 Nights",
+     "label": "☸️ Living Heritage",
+     "title": "The Sacred Tooth & Monastic Sanctuaries",
+     "route": "",
+     "desc": "Witness the rhythmic drumming and evening Tevava ceremony at Sri Dalada Maligawa in Kandy, discover the 1st-century BCE rock cave murals of Dambulla, and marvel at the rock-cut Gal Vihara Buddhas.",
+     "highlights": [],
+     "price": "From $1,890 / person"
+    },
+    {
+     "slug": "forest-hermitages-mindful-ceylon",
+     "image": "/assets/images/buddhist-heritage/mihintale-3.webp",
+     "badge": "Meditation Retreat",
+     "duration": "12 Days / 11 Nights",
+     "label": "🧘 Mindful Living",
+     "title": "Forest Hermitages & Mindful Ceylon",
+     "route": "",
+     "desc": "Step into ancient forest meditation monasteries hidden in the jungle at Ritigala, practice guided Vipassana with senior Buddhist monks, and stay in serene eco-villas surrounded by birdsong.",
+     "highlights": [],
+     "price": "From $2,250 / person"
+    }
+   ]
+  },
+  "comparisonIntro": {
+   "eyebrow": "SIDE-BY-SIDE ITINERARY COMPARISON",
+   "title": "Compare Sacred Sanctuaries & Highlights",
+   "note": "Review how each Buddhist pilgrimage traverses Sri Lanka's venerated temples, forest hermitages, and UNESCO ancient capitals."
+  },
+  "faqs": {
+   "watermark": "Pilgrimage Etiquette & Planning",
+   "title": "Frequently Asked Questions",
+   "accent": "",
+   "subtitle": "Helpful guidance for respectful, serene visits to Sri Lanka's holy Buddhist sites.",
+   "items": [
+    {
+     "q": "What dress code is required when visiting sacred Buddhist temples?",
+     "a": "Modest white or light-coloured attire covering shoulders and knees is traditional and respectful. Shoes and hats must be removed before entering temple compounds; our private chauffeurs provide clean shoe-storage bags and gentle reminders at every sanctuary."
+    },
+    {
+     "q": "Can private Dhamma discussions and blessings be arranged with monks?",
+     "a": "Yes. With Lotus Ceylon’s deep respect and long-standing relationships with monastery elders, we arrange private Pirith chanting blessings, Bodhi Puja ceremonies, and Dhamma discussions with English-speaking monks."
+    },
+    {
+     "q": "Are these pilgrimages physically demanding?",
+     "a": "Each pilgrimage is paced entirely to your comfort. Anuradhapura and Kandy sites are flat and accessible. Sites with stairs like Mihintale and Dambulla have gradual steps, and our guides accompany you at whatever pace you prefer."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "wildlife",
+  "metaTitle": "Sri Lanka Wildlife Safaris & Big Five Wilderness Expeditions | Lotus Ceylon",
+  "metaDescription": "Embark on thrilling private wildlife safaris in Sri Lanka with Lotus Ceylon. Track Yala leopards, witness the Minneriya elephant gathering, and spot blue whales with expert naturalists.",
+  "data": {
+   "title": "Sri Lanka Wildlife Safaris",
+   "titleHighlight": "& Big Five Wilderness Expeditions",
+   "tagline": "ASIA’S APEX WILDLIFE • THE BIG FIVE SANCTUARY",
+   "description": "Encounter earth’s highest leopard density, dramatic elephant gatherings of 300+ gentle giants, elusive sloth bears, and the colossal blue whale. Experience Sri Lanka’s untamed nature in luxury tented safari camps with private expert naturalists.",
+   "overviewTitle": "Dense Jungle Tracks, Apex Predators & Oceanic Giants",
+   "overviewText": "Ranked among the world’s top 10 biodiversity hotspots, Sri Lanka packs astonishing faunal diversity into a compact emerald isle. Within a few hours' drive, you can transition from tracking leopards across Yala’s thorny scrub jungles to observing massive elephant herds grazing along ancient Minneriya reservoirs.",
+   "watermark": "untamed",
+   "heroImage": "assets/tours/wildlife/hero.jpg",
+   "mapHeading": "Discover Sri Lanka’s Untamed Wildlife Routes",
+   "mapDescription": "Follow our carefully planned wildlife routes connecting the premier national parks, marine corridors, and pristine rainforest sanctuaries of Ceylon."
+  },
+  "hero": {
+   "badge": "🐆 ASIA’S APEX WILDLIFE • THE BIG FIVE SANCTUARY",
+   "title": "Sri Lanka Luxury Wildlife & Safari Tours",
+   "accent": "Big Five Expeditions & Untamed Wilderness",
+   "lead": "Encounter earth’s highest leopard density, dramatic elephant gatherings of 300+ gentle giants, elusive sloth bears, and the colossal blue whale. Experience Sri Lanka’s untamed nature in luxury tented safari camps with private expert naturalists.",
+   "primaryCta": "Explore Itineraries",
+   "secondaryCta": "Design Custom Safari",
+   "image": "/assets/images/wildlife/yala-leopard-1.webp"
+  },
+  "overview": {
+   "watermark": "untamed",
+   "title": "Dense Jungle Tracks, Apex Predators",
+   "accent": "& Oceanic Giants",
+   "paragraphs": [
+    "Ranked among the world’s top 10 biodiversity hotspots, Sri Lanka packs astonishing faunal diversity into a compact emerald isle. Within a few hours' drive, you can transition from tracking leopards across Yala’s thorny scrub jungles to observing massive elephant herds grazing along ancient Minneriya reservoirs.",
+    "At Lotus Ceylon, our wildlife safaris prioritize ethical, conservation-led encounters. We equip you with custom-modified 4x4 safari jeeps, seasoned private naturalist trackers, and bespoke bookings at sustainable luxury wilderness lodges and glamping retreats."
+   ]
+  },
+  "packagesSection": {
+   "watermark": "exclusive",
+   "title": "Curated Wildlife Tour Packages",
+   "accent": "",
+   "subtitle": "Each itinerary is 100% customizable. Adjust destinations, duration, lodge tiers, and game drive frequencies to match your safari style.",
+   "cards": [
+    {
+     "slug": "wild-ceylon-predator-elephant-trail",
+     "image": "/assets/images/wildlife/yala-leopard-1.webp",
+     "badge": "Recommended for Big Cat & Elephant Seekers",
+     "duration": "16 Nights / 17 Days",
+     "label": "Premier Predator Trail",
+     "title": "Wild Ceylon Predator & Elephant Trail",
+     "route": "Negombo • Wilpattu National Park • Minneriya • Yala • Colombo",
+     "desc": "An exhilarating journey through Sri Lanka's premier national parks. Search for elusive leopards and sloth bears around the tranquil villus of Wilpattu, witness the elephant gathering at Minneriya, and track apex predators across Yala.",
+     "highlights": [
+      "Wilpattu Natural Villu Lakes & Sloth Bear Tracking",
+      "Minneriya Asian Elephant Gathering 4x4 Safari",
+      "Yala Block 1 Dawn & Sunset Leopard Drives",
+      "Luxury Safari Tented Camps with Private Naturalists"
+     ]
+    },
+    {
+     "slug": "the-sri-lanka-big-five-expedition",
+     "image": "/assets/images/wildlife/mirissa-blue-whale-4.webp",
+     "badge": "Recommended for Apex Wildlife Lovers",
+     "duration": "13 Nights / 14 Days",
+     "label": "Land & Ocean Giants",
+     "title": "The Sri Lanka Big Five Expedition",
+     "route": "Negombo • Wilpattu • Habarana • Udawalawe • Yala • Mirissa • Colombo",
+     "desc": "The definitive Sri Lanka wildlife journey covering the island’s famous \"Big Five\": the Sri Lankan Leopard, Asian Elephant, Sloth Bear, Blue Whale, and Sperm Whale, combined with pristine birding sanctuaries.",
+     "highlights": [
+      "Track Leopards & Sloth Bears in Wilpattu & Yala",
+      "Udawalawe Elephant Transit Home & Lake Safaris",
+      "Private Mirissa Deep-Sea Blue Whale Watching Cruise",
+      "Bundala Ramsar Wetland Migratory Bird Watching"
+     ]
+    },
+    {
+     "slug": "untamed-biosphere-rainforest-odyssey",
+     "image": "/assets/images/wildlife/sinharaja-rainforest-5.webp",
+     "badge": "Recommended for Eco & Nature Enthusiasts",
+     "duration": "16 Nights / 17 Days",
+     "label": "Endemic Biodiversity Sanctuary",
+     "title": "Untamed Biosphere & Rainforest Odyssey",
+     "route": "Negombo • Sinharaja Forest Reserve • Udawalawe • Horton Plains • Kandy • Colombo",
+     "desc": "Immerse in primary virgin rainforests, cloud forests, and highland plains. Trek through UNESCO Sinharaja looking for mixed bird feeding flocks, hike World’s End at Horton Plains, and encounter wild elephants at Udawalawe.",
+     "highlights": [
+      "UNESCO Sinharaja Biosphere Endemic Bird & Frog Trek",
+      "Horton Plains Cloud Forest & World’s End Escarpment",
+      "Udawalawe National Park Elephant Safari",
+      "Sustainable Eco-Lodges nestled in nature"
+     ]
+    }
+   ]
+  },
+  "comparisonIntro": {
+   "eyebrow": "SIDE-BY-SIDE ITINERARY COMPARISON",
+   "title": "Compare Destinations & Sights",
+   "note": "Review how each Wildlife itinerary traverses Sri Lanka’s iconic destinations, cultural landmarks, and nature reserves."
+  },
+  "circuit": {
+   "eyebrow": "✦ UNTAMED JUNGLE SANCTUARIES & CORRIDORS",
+   "quote": "“Step into ancient jungle sanctuaries where leopards silently stalk the dawn and herds of wild giants gather under timeless skies.”",
+   "quoteCaption": "Lotus Ceylon Wildlife Expeditions",
+   "title": "Discover Sri Lanka’s Untamed Safari Routes:",
+   "accent": "National Parks, Cloud Forests & Deep-Ocean Corridors",
+   "leadHtml": "Sri Lanka is globally recognized as one of the world's premier biodiversity hotspots. Our wildlife expeditions follow protected wilderness corridors connecting the arid scrublands of <strong>Yala</strong> and <strong>Wilpattu</strong>, the legendary elephant reservoirs of <strong>Minneriya</strong> and <strong>Udawalawe</strong>, and the primeval cloud forests of <strong>Sinharaja</strong>. Travel in custom 4x4 open-top safari jeeps escorted by veteran naturalists and tracker guides.",
+   "label": "Signature Wildlife Circuit:",
+   "stops": [
+    "Colombo",
+    "Wilpattu Park",
+    "Minneriya",
+    "Horton Plains",
+    "Udawalawe",
+    "Yala National Park",
+    "Mirissa Marine Reserve"
+   ],
+   "highlights": [
+    "Highest Leopard Density in Asia",
+    "7,000+ Wild Asian Elephants",
+    "400+ Resident & Migratory Birds",
+    "UNESCO Sinharaja Virgin Rainforest"
+   ],
+   "ctaPrimary": "Plan Your Custom Tour ➔",
+   "ctaWhatsapp": "💬 Chat on WhatsApp"
+  },
+  "seasons": {
+   "watermark": "seasons",
+   "title": "When to Experience Sri Lanka's Wildlife",
+   "accent": "Seasonal Safari & Migration Guide",
+   "cards": [
+    {
+     "badge": "May to September",
+     "title": "Prime Dry Safari Season",
+     "locations": "Minneriya • Kaudulla • Yala • Wilpattu",
+     "text": "During the dry months, waterholes shrink and wildlife congregates in open view. This is the world-renowned season for the Minneriya Elephant Gathering, where hundreds of wild elephants gather along the reservoir basin.",
+     "perks": [
+      {
+       "label": "Prime Activities",
+       "text": "Minneriya Great Elephant Gathering, dry-season leopard spotting around waterholes in Yala and Wilpattu."
+      },
+      {
+       "label": "Ideal For",
+       "text": "Photographers, big cat enthusiasts, and wildlife documentary lovers."
+      }
+     ]
+    },
+    {
+     "badge": "November to April",
+     "title": "Marine Giants & Birding Season",
+     "locations": "Mirissa • Kalpitiya • Bundala • Sinharaja",
+     "text": "Glass-like calm seas along the south and west coasts allow magnificent close encounters with migrating blue whales, sperm whales, and thousands of spinner dolphins.",
+     "perks": [
+      {
+       "label": "Prime Activities",
+       "text": "Blue whale boat safaris in Mirissa, birding at Bundala Ramsar wetlands, dolphin watching in Kalpitiya."
+      },
+      {
+       "label": "Ideal For",
+       "text": "Marine lovers, bird watchers, and travelers combining beaches with national parks."
+      }
+     ]
+    }
+   ]
+  },
+  "experiences": {
+   "watermark": "experiences",
+   "title": "Top Wildlife & Safari Experiences",
+   "accent": "",
+   "items": [
+    {
+     "title": "Yala Leopard Dawn Game Drives",
+     "text": "Track the majestic Sri Lankan Leopard (Panthera pardus kotiya) across rocky outcrops and sand dunes with veteran local trackers."
+    },
+    {
+     "title": "The Minneriya Elephant Gathering",
+     "text": "Witness up to 300 wild Asian elephants socializing, bathing, and grazing together on fresh reservoir grasses—a spectacle found nowhere else."
+    },
+    {
+     "title": "Deep-Sea Blue Whale Encounters",
+     "text": "Cruise into the deep underwater canyons off Mirissa and Trincomalee to watch earth's largest mammal surface gracefully."
+    },
+    {
+     "title": "Wilpattu Sloth Bear Safaris",
+     "text": "Traverse Sri Lanka's largest national park surrounded by tranquil natural lakes (villus), spotting elusive sloth bears feeding on palu berries."
+    },
+    {
+     "title": "Luxury Glamping Under the Stars",
+     "text": "Unwind in air-conditioned luxury safari tents bordering national parks, with private chef dinners and storytelling around the campfire."
+    },
+    {
+     "title": "Sinharaja Endemic Bird Watching",
+     "text": "Trek through UNESCO tropical primary rainforest to spot 20+ bird species found nowhere else on earth, accompanied by expert ornithologists."
+    }
+   ]
+  },
+  "faqs": {
+   "watermark": "questions",
+   "title": "Wildlife Safari FAQs & Travel Guide",
+   "accent": "",
+   "subtitle": "",
+   "items": [
+    {
+     "q": "What are my chances of spotting a leopard in Yala?",
+     "a": "Yala National Park Block 1 boasts the highest documented leopard density on the planet. With Lotus Ceylon, we arrange dedicated early-morning (6:00 AM) and late-afternoon (3:00 PM) game drives led by senior naturalists with deep tracking experience, giving our guests exceptional sighting rates."
+    },
+    {
+     "q": "What type of safari vehicles are provided?",
+     "a": "We provide private, customized 4x4 Toyota Hilux / Land Cruiser safari jeeps featuring elevated stadium seating, open sides for unobstructed 360-degree photography, cushioned armrests, charging ports, and protective canvas roofs."
+    },
+    {
+     "q": "What should I wear on a game drive safari?",
+     "a": "Neutral, earth-toned clothing (khaki, olive, beige, or brown) is highly recommended. Bright neon colors can alert wildlife and startle animals. Bring a light jacket or fleece for early dawn departures, high-SPF sunscreen, polarized sunglasses, and a wide-brimmed sun hat."
+    },
+    {
+     "q": "Are safaris suitable for young children?",
+     "a": "Yes, children love observing wild animals in their natural habitats! For families with younger children, Udawalawe and Minneriya are especially rewarding due to frequent, gentle elephant encounters within short driving distances. We provide child car seats upon request and adjust drive lengths to match your family's comfort."
+    },
+    {
+     "q": "How does Lotus Ceylon practice ethical wildlife tourism?",
+     "a": "We strictly adhere to wildlife department park rules, maintain respectful distances from animals, forbid off-roading, and enforce quiet engine idling near feeding or nursing animals. We also partner exclusively with eco-conscious safari operators and conservation organizations."
+    }
+   ]
+  },
+  "planCta": {
+   "eyebrow": "100% Bespoke Safari Curation",
+   "title": "Plan Your Dream Sri Lanka Wildlife Safari",
+   "text": "Speak directly with our senior wildlife specialists. We will craft a personalized safari expedition tailored to your pace, luxury lodge preferences, and animal encounter goals.",
+   "buttons": [
+    {
+     "label": "Start Your Safari Inquiry ➔",
+     "href": "/inquiry?category=Wildlife+Tours"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "beach",
+  "metaTitle": "Sri Lanka Beach Tours & Luxury Coastal Holidays | Lotus Ceylon",
+  "metaDescription": "Discover tailor-made Sri Lanka beach holidays with Lotus Ceylon. Explore golden south coast bays, crystal-clear eastern waters, private beachfront villas, surfing, and whale watching.",
+  "data": {
+   "title": "Sri Lanka Luxury Beach Holidays",
+   "titleHighlight": "& Tailor-Made Coastal Getaways",
+   "tagline": "PURE JOURNEYS • TROPICAL COASTAL ESCAPES",
+   "description": "Surrender to 1,300 kilometers of sun-blessed coastline, secret golden coves, and crystal sapphire waters. From peaceful private seaside villas to blue whale safaris and world-class surfing, experience coastal Sri Lanka crafted entirely around you.",
+   "overviewTitle": "Golden Sands, Living Oceans & Secluded Luxury",
+   "overviewText": "Surrounded by the warm waters of the Indian Ocean, Sri Lanka is a year-round paradise for beach lovers. Thanks to the island's unique twin-monsoon rhythm, golden sunshine and gentle swimming waters can be found along our shores in every single month of the year.",
+   "watermark": "coastal bliss",
+   "heroImage": "assets/tours/beach/hero.jpg",
+   "mapHeading": "Discover Sri Lanka’s Stunning Coastlines",
+   "mapDescription": "Explore our curated coastal journeys across secluded southern bays, historic rampart harbors, eastern surf lagoons, and pristine northern sandbars."
+  },
+  "hero": {
+   "badge": "🌸 PURE JOURNEYS • TROPICAL COASTAL ESCAPES",
+   "title": "Sri Lanka Luxury Beach Holidays",
+   "accent": "Tailor-Made Coastal Getaways",
+   "lead": "Surrender to 1,300 kilometers of sun-blessed coastline, secret golden coves, and crystal sapphire waters. From peaceful private seaside villas to blue whale safaris and world-class surfing, experience coastal Sri Lanka crafted entirely around you.",
+   "primaryCta": "Explore Itineraries",
+   "secondaryCta": "Design Custom Beach Tour",
+   "image": "/assets/tours/beach/hero.jpg"
+  },
+  "overview": {
+   "watermark": "coastal bliss",
+   "title": "Golden Sands, Living Oceans",
+   "accent": "& Secluded Luxury",
+   "paragraphs": [
+    "Surrounded by the warm waters of the Indian Ocean, Sri Lanka is a year-round paradise for beach lovers. Thanks to the island's unique twin-monsoon rhythm, golden sunshine and gentle swimming waters can be found along our shores in every single month of the year.",
+    "At Lotus Ceylon, our beach journeys go far beyond ordinary resort stays. We introduce you to quiet bays framed by swaying coconut palms, intimate colonial tea bungalows by the sea, oceanfront Ayurvedic sanctuaries, and thrilling ocean encounters with gentle blue whales and dolphins—all escorted by your private chauffeur guide."
+   ]
+  },
+  "packagesSection": {
+   "watermark": "exclusive",
+   "title": "Curated Beach Tour Packages",
+   "accent": "",
+   "subtitle": "Each itinerary is 100% customizable. Adjust destinations, duration, hotel tiers, and coastal activities to match your travel rhythm.",
+   "cards": [
+    {
+     "slug": "southern-sands-serenade",
+     "image": "/assets/images/beach/mirissa-1.webp",
+     "badge": "Recommended for Adventure, Honeymoon",
+     "duration": "9 Nights / 10 Days",
+     "label": "South Coast Escape",
+     "title": "Southern Sands Serenade",
+     "route": "Negombo • Tangalle • Mirissa • Unawatuna • Galle • Hikkaduwa • Bentota",
+     "desc": "A sun-soaked coastal odyssey along the southwest shores. Explore Hummanaya Blow Hole, dive in Tangalle, spot blue whales in Mirissa, stroll 17th-century ramparts in Galle Fort, and visit Kosgoda sea turtle sanctuary.",
+     "highlights": [
+      "Hummanaya Blow Hole & Mulgirigala Cave Temple",
+      "Whale & Dolphin Watching Safari in Mirissa",
+      "UNESCO Galle Dutch Fort Sunset Walking Tour",
+      "Kosgoda Sea Turtle Hatchery & Conservation"
+     ]
+    },
+    {
+     "slug": "turquoise-eastern-sanctuary",
+     "image": "/assets/images/honeymoon/mirissa-sunset-2.webp",
+     "badge": "Recommended for Adventure, Honeymoon",
+     "duration": "11 Nights / 12 Days",
+     "label": "East Coast Sanctuary",
+     "title": "Turquoise Eastern Sanctuary",
+     "route": "Negombo • Sigiriya • Trincomalee • Pasikudah • Arugam Bay • Yala • Galle • Colombo",
+     "desc": "Immerse in turquoise waters and peaceful bays. Snorkel over kaleidoscopic coral gardens at Pigeon Island, walk along shallow lagoon shallows in Pasikudah, catch world-class dawn waves in Arugam Bay, and embark on a Yala safari.",
+     "highlights": [
+      "Pigeon Island National Marine Park Coral Snorkeling",
+      "Historic Koneswaram Cliffside Temple overlooking natural harbour",
+      "Shallow calm-water bathing at Pasikudah Beach",
+      "Yala National Park Leopard & Wild Elephant Safari"
+     ]
+    },
+    {
+     "slug": "pristine-seaboard-odyssey",
+     "image": "/assets/images/beach/mirissa-1.webp",
+     "badge": "Recommended for Family",
+     "duration": "13 Nights / 14 Days",
+     "label": "Complete Island Coastline",
+     "title": "Pristine Seaboard Odyssey",
+     "route": "Negombo • Trincomalee • Kalpitiya • Mannar • Jaffna • Colombo",
+     "desc": "Traverse the untouched beauty of northern coastlines and tranquil eastern waters. Spot spinner dolphins in Kalpitiya, explore historic Mannar Fort, unwind at Casuarina Beach, and bathe in sacred Keerimalai springs.",
+     "highlights": [
+      "Kalpitiya Lagoon Kite-Surfing & Dolphin Boat Safari",
+      "Mannar Island Fort & Adam's Bridge Sandbars",
+      "Casuarina Beach & Coastal Jaffna Seafood Culture",
+      "Colombo Street Food & Heritage Shopping Tour"
+     ]
+    }
+   ]
+  },
+  "comparisonIntro": {
+   "eyebrow": "SIDE-BY-SIDE ITINERARY COMPARISON",
+   "title": "Compare Destinations & Sights",
+   "note": "Review how each Beach itinerary traverses Sri Lanka’s iconic destinations, cultural landmarks, and nature reserves."
+  },
+  "circuit": {
+   "eyebrow": "✦ CEYLON COASTAL GEOGRAPHY & EXPEDITIONS",
+   "quote": "“The sea, once it casts its spell, holds one in its net of wonder forever — where Ceylon’s golden shores meet sapphire tides.”",
+   "quoteCaption": "Lotus Ceylon Signature Journeys",
+   "title": "Discover Sri Lanka’s Stunning Coastlines:",
+   "accent": "Golden Beaches, Coral Atolls & Secluded Luxury",
+   "leadHtml": "Sri Lanka’s coastal perimeter spans over 1,340 kilometers of tropical diversity. From the historic ramparts of <strong>Galle Fort</strong> and the sun-blessed surf bays of <strong>Weligama</strong> and <strong>Mirissa</strong> to the tranquil palm-fringed lagoons of <strong>Bentota</strong> and the wild eastern breaks of <strong>Arugam Bay</strong>, our coastal journeys are curated with private chauffeured transfers, boutique beachfront villas, and bespoke marine adventures.",
+   "label": "Signature Coastal Circuit:",
+   "stops": [
+    "Colombo",
+    "Bentota",
+    "Galle Fort",
+    "Mirissa",
+    "Tangalle",
+    "Arugam Bay",
+    "Trincomalee"
+   ],
+   "highlights": [
+    "1,340 km Pristine Coastline",
+    "Whale & Dolphin Safaris",
+    "UNESCO Galle Fort Ramparts",
+    "Surfing & Coral Reefs"
+   ],
+   "ctaPrimary": "Plan Your Custom Tour ➔",
+   "ctaWhatsapp": "💬 Chat on WhatsApp"
+  },
+  "seasons": {
+   "watermark": "seasons",
+   "title": "When to Visit Sri Lanka's Beaches",
+   "accent": "The Dual-Coast Microclimate Guide",
+   "cards": [
+    {
+     "badge": "November to April",
+     "title": "South & West Coasts",
+     "locations": "Bentota • Galle • Unawatuna • Mirissa • Tangalle • Hikkaduwa",
+     "text": "During the European and North American winter, the South and West coasts enjoy bright sunshine, tranquil glass-like seas, and balmy breezes.",
+     "perks": [
+      {
+       "label": "Prime Activities",
+       "text": "Blue whale watching in Mirissa, sea turtle nesting, calm family swimming, luxury catamaran cruises, deep-sea angling."
+      },
+      {
+       "label": "Ideal For",
+       "text": "Winter sun seekers, luxury honeymooners, and heritage explorers visiting Galle Fort."
+      }
+     ]
+    },
+    {
+     "badge": "May to September",
+     "title": "East & North Coasts",
+     "locations": "Trincomalee • Nilaveli • Pasikudah • Arugam Bay • Jaffna",
+     "text": "When monsoon rains kiss the southwest, the eastern seaboard transforms into a tranquil, crystal-clear sanctuary with calm waters and endless blue skies.",
+     "perks": [
+      {
+       "label": "Prime Activities",
+       "text": "World-class point-break surfing in Arugam Bay, coral reef diving at Pigeon Island, shallow wade-in swimming at Pasikudah."
+      },
+      {
+       "label": "Ideal For",
+       "text": "Summer holidaymakers, wildlife lovers combining Yala/Minneriya with peaceful beaches."
+      }
+     ]
+    }
+   ]
+  },
+  "experiences": {
+   "watermark": "experiences",
+   "title": "Top Ocean & Coastal Experiences",
+   "accent": "",
+   "items": [
+    {
+     "title": "Whale & Dolphin Safaris",
+     "text": "Witness magnificent blue whales, sperm whales, and leaping spinner dolphins in the deep waters of Mirissa and Trincomalee with respectful marine guides."
+    },
+    {
+     "title": "Surfing Across All Levels",
+     "text": "From gentle, beginner-friendly rolling swells in Weligama Bay to legendary international surf breaks in Arugam Bay and Midigama."
+    },
+    {
+     "title": "Pristine Coral Snorkeling",
+     "text": "Explore vibrant marine life, sea turtles, and kaleidoscopic reef fish at Pigeon Island National Marine Sanctuary and Hikkaduwa coral gardens."
+    },
+    {
+     "title": "Sea Turtle Conservation",
+     "text": "Support vital community conservation efforts at Kosgoda and Rekawa, witnessing nesting sea turtles on moonlit beaches and baby hatchlings."
+    },
+    {
+     "title": "Private Catamaran Sailing",
+     "text": "Charter a private luxury catamaran along the south coast for secluded swimming, stand-up paddle boarding, and champagne sunsets."
+    },
+    {
+     "title": "Ayurvedic Ocean Spas",
+     "text": "Renew your energy with authentic herbal oil treatments, herbal steam baths, and sunrise yoga sessions right beside the ocean breeze."
+    }
+   ]
+  },
+  "faqs": {
+   "watermark": "questions",
+   "title": "Coastal Travel FAQs",
+   "accent": "",
+   "subtitle": "",
+   "items": [
+    {
+     "q": "When is the best time to visit Sri Lanka's beaches?",
+     "a": "You can visit Sri Lanka at any time of year! As a tropical island, Sri Lanka enjoys abundant sunlight and warm waters year-round. The island has two distinct monsoon seasons: the southwest monsoon extends from May to October (making the East Coast—Trincomalee, Nilaveli, Pasikudah, Arugam Bay—calm and sunny), while the northeast monsoon occurs from November to April (making the South and West coasts—Bentota, Galle, Mirissa, Tangalle—crystal clear and ideal for swimming and whale watching)."
+    },
+    {
+     "q": "Is it safe to travel to Sri Lanka?",
+     "a": "Sri Lanka is a remarkably welcoming, peaceful, and secure destination offering safe beaches and breathtaking landscapes. International travelers consistently rank Sri Lankan hospitality among the friendliest in the world. With Lotus Ceylon, your entire journey is hosted by licensed, private English-speaking chauffeur guides with 24/7 concierge support."
+    },
+    {
+     "q": "Do I need a visa to travel to Sri Lanka?",
+     "a": "Yes, most travelers require an Electronic Travel Authorization (ETA) prior to arrival. Your passport must be valid for at least six months beyond your travel dates. You can easily apply online before your trip via the official immigration portal (www.eta.gov.lk). Our concierge team will gladly assist you through the process."
+    },
+    {
+     "q": "What should I pack for a Sri Lanka beach holiday?",
+     "a": "The tropics are warm and tropical, so light, breathable linen and cotton clothing, swimwear, high-SPF sunscreen, sunglasses, and reef-safe bug repellant are essential. When visiting coastal temples (such as Koneswaram or Mulgirigala), you will need attire covering shoulders and knees (a light scarf or sarong is handy). Remember that caps and footwear must be removed when entering sacred temple grounds."
+    },
+    {
+     "q": "What currency is used, and are credit cards widely accepted?",
+     "a": "Sri Lanka’s currency is the Sri Lankan Rupee (LKR). Major international credit cards (Visa and MasterCard) are widely accepted at all beachfront hotels, luxury resorts, and restaurants. ATMs are readily available across all major coastal towns including Negombo, Bentota, Galle, Mirissa, and Trincomalee. For small local beach cafes, having some local currency notes is recommended."
+    },
+    {
+     "q": "Why choose Lotus Ceylon to plan your coastal holiday?",
+     "a": "Arranging round-tour transportation across Sri Lanka's coastlines requires expert coordination. Lotus Ceylon handles every detail: private luxury climate-controlled transport, licensed national chauffeur guides, handpicked beachfront boutique villas, private whale watching boat charters, and round-the-clock on-ground concierge assistance so you can purely relax and immerse in paradise."
+    }
+   ]
+  },
+  "planCta": {
+   "eyebrow": "100% Bespoke Coastal Curation",
+   "title": "Plan Your Dream Sri Lanka Beach Holiday",
+   "text": "Speak directly with our senior destination specialists. We'll craft a personalized coastal itinerary tailored to your pace, preferences, and desires.",
+   "buttons": [
+    {
+     "label": "Start Your Beach Inquiry ➔",
+     "href": "/inquiry?category=Beach+Tours"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "hill-country",
+  "metaTitle": "Sri Lanka Hill Country Tours & Tea Trails Holidays | Lotus Ceylon",
+  "metaDescription": "Explore misty Sri Lanka hill country tours with Lotus Ceylon. Scenic train rides, luxury tea planter bungalows, Nuwara Eliya, and Ella.",
+  "data": {
+   "title": "Sri Lanka Hill Country & Tea Country Tours",
+   "titleHighlight": "& Misty Mountain Trails",
+   "tagline": "MISTY VALLEYS • HERITAGE TEA TRAILS • HIGHLAND SANCTUARY",
+   "description": "Escape to the cool emerald highlands of Ceylon. Wander through rolling tea plantations, ride the legendary scenic railway over Nine Arches Bridge, stay in restored British colonial planter bungalows, and breathe crisp mountain air.",
+   "overviewTitle": "Verdant Tea Valleys, Cascading Waterfalls & Alpine Air",
+   "overviewText": "Rising into the central heartlands of Sri Lanka, the Hill Country offers an exhilarating change of climate and scenery. Towering peaks veiled in early morning mist give way to endless slopes of manicured tea bushes, dramatic cliff drops, and colonial railway engineering marvels.",
+   "watermark": "tea trails",
+   "heroImage": "assets/images/tea-country.jpg",
+   "mapHeading": "Discover Sri Lanka’s Highland Trails",
+   "mapDescription": "Follow our scenic railway and highland routes connecting Kandy, Hatton, Nuwara Eliya, Horton Plains, and Ella."
+  },
+  "hero": {
+   "badge": "",
+   "title": "Sri Lanka Hill Country & Tea Country Tours",
+   "accent": "Misty Mountain Trails & Colonial Grandeur",
+   "lead": "Escape to the cool emerald highlands of Ceylon. Wander through rolling tea plantations, ride the legendary scenic railway over Nine Arches Bridge, stay in restored British colonial planter bungalows, and breathe crisp mountain air.",
+   "primaryCta": "",
+   "secondaryCta": "",
+   "image": "/assets/images/hill-country/nuwara-eliya-tea-2.webp"
+  },
+  "overview": {
+   "watermark": "TEA TRAILS",
+   "title": "Verdant Tea Valleys, Cascading Waterfalls & Alpine Air",
+   "accent": "",
+   "paragraphs": [
+    "Rising into the central heartlands of Sri Lanka, the Hill Country offers an exhilarating change of climate and scenery. Towering peaks veiled in early morning mist give way to endless slopes of manicured tea bushes, dramatic cliff drops, and colonial railway engineering marvels."
+   ]
+  },
+  "packagesSection": {
+   "watermark": "",
+   "title": "",
+   "accent": "",
+   "subtitle": "",
+   "cards": [
+    {
+     "slug": "ceylon-tea-trails-colonial-grandeur",
+     "image": "/assets/images/hill-country/nuwara-eliya-tea-2.webp",
+     "badge": "Popular",
+     "duration": "7 Nights / 8 Days",
+     "label": "MISTY VALLEYS • HERITAGE TEA TRAILS • HIGHLAND SANCTUARY",
+     "title": "Ceylon Tea Trails & Colonial Grandeur",
+     "route": "Colombo • Kandy • Nuwara Eliya • Ella",
+     "desc": "A refined highland journey through colonial planter estates, manicured tea gardens, and misty valleys.",
+     "highlights": [
+      "Stay in historic restored colonial tea planter bungalows",
+      "First-Class reserved seats on Kandy to Nuwara Eliya scenic railway",
+      "Private guided tea factory tour & sensory connoisseur tea tasting",
+      "Sunset cocktail overlooking Nine Arches Viaduct Bridge"
+     ]
+    },
+    {
+     "slug": "misty-peaks-scenic-railways-expedition",
+     "image": "/assets/images/hill-country/nine-arches-bridge-1.webp",
+     "badge": "Scenic Train",
+     "duration": "9 Nights / 10 Days",
+     "label": "MISTY VALLEYS • HERITAGE TEA TRAILS • HIGHLAND SANCTUARY",
+     "title": "Misty Peaks & Scenic Railways Expedition",
+     "route": "Negombo • Kandy • Hatton • Nuwara Eliya • Ella • Bandarawela",
+     "desc": "The definitive highland railway odyssey across dramatic bridges, cloud forests, and tea valleys.",
+     "highlights": [
+      "Comprehensive 3-stage scenic railway traversal of the Central Highlands",
+      "Exclusive stay overlooking Castlereagh Lake in Hatton",
+      "Private morning birdwatching walk in Horton Plains cloud forest",
+      "Ella Rock summit hike with private wilderness mountain guide"
+     ]
+    },
+    {
+     "slug": "highland-wilderness-cascading-waterfalls",
+     "image": "/assets/images/hill-country/nuwara-eliya-tea-2.webp",
+     "badge": "Nature",
+     "duration": "11 Nights / 12 Days",
+     "label": "MISTY VALLEYS • HERITAGE TEA TRAILS • HIGHLAND SANCTUARY",
+     "title": "Highland Wilderness & Cascading Waterfalls",
+     "route": "Colombo • Kitulgala • Nuwara Eliya • Horton Plains • Haputale • Ella • Adam's Peak",
+     "desc": "A majestic exploration of Sri Lanka's alpine wilderness, roaring cataracts, and sacred mountain peaks.",
+     "highlights": [
+      "Witness 8 of Sri Lanka's most majestic waterfalls including Diyaluma & Bambarakanda",
+      "Stargazing and sunrise from Lipton’s Seat in Haputale",
+      "Private night ascent option of sacred Adam's Peak (Sri Pada)",
+      "Hidden waterfall plunge pool swim at secret mountain cascading stream"
+     ]
+    }
+   ]
+  },
+  "comparisonIntro": {
+   "eyebrow": "SIDE-BY-SIDE ITINERARY COMPARISON",
+   "title": "Compare Destinations & Sights",
+   "note": "Review how each Hill Country itinerary traverses Sri Lanka’s iconic destinations, cultural landmarks, and nature reserves."
+  },
+  "circuit": {
+   "eyebrow": "✦ IMPERIAL HIGHLANDS & MISTY TEA TRAILS",
+   "quote": "“Where emerald tea plantations cascade into misty ravines and vintage trains trace the clouds through Ceylon’s imperial highlands.”",
+   "quoteCaption": "Lotus Ceylon Highland Escapes",
+   "title": "Discover Sri Lanka’s Misty Highland Routes:",
+   "accent": "Single-Estate Tea Hills, Alpine Waterfalls & Scenic Railways",
+   "leadHtml": "Ascend into the cool, invigorating climate of the Central Highlands. Journey past roaring waterfalls, manicured colonial tea gardens, and mist-swathed peaks. Board the world-famous blue train as it winds across the iconic Nine Arch Viaduct between <strong>Nuwara Eliya</strong> and <strong>Ella</strong>, and immerse yourself in single-estate artisanal tea tastings, private planter bungalow stays, and dramatic cliffside panoramas.",
+   "label": "Signature Highland Circuit:",
+   "stops": [
+    "Kandy",
+    "Ramboda Falls",
+    "Nuwara Eliya",
+    "Horton Plains (World's End)",
+    "Ella Rock",
+    "Haputale"
+   ],
+   "highlights": [
+    "World's Most Scenic Railway",
+    "Historic Single-Estate Tea Trails",
+    "Nine Arch Viaduct & Ella Gap",
+    "Cool Mountain Air at 1,800m Altitude"
+   ],
+   "ctaPrimary": "Plan Your Custom Tour ➔",
+   "ctaWhatsapp": "💬 Chat on WhatsApp"
+  },
+  "planCta": {
+   "eyebrow": "PURE JOURNEYS • SACRED EXPERIENCES",
+   "title": "Ready to Plan Your Sri Lanka Hill Country & Tea Country Tours?",
+   "text": "Every single day, boutique stay, and transfer is customized entirely around you. Our destination experts craft your personalized itinerary tailored to your travel dates and pace.",
+   "buttons": [
+    {
+     "label": "Design Your Custom Journey",
+     "href": "/inquiry?category=hill-country"
+    },
+    {
+     "label": "WhatsApp Specialist (+94 71 54 22 384)",
+     "href": "https://wa.me/94715422384"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "ayurvedic",
+  "metaTitle": "Sri Lanka Ayurvedic & Wellness Retreats | Lotus Ceylon",
+  "metaDescription": "Rejuvenate your soul with authentic Ayurveda wellness holidays in Sri Lanka. Physician consultations, herbal panchakarma, and lakeside yoga.",
+  "data": {
+   "title": "Sri Lanka Ayurvedic & Holistic Wellness Retreats",
+   "titleHighlight": "& Sacred Healing Sanctuaries",
+   "tagline": "SACRED BOTANICAL HEALING • MINDFULNESS • YOGA RETREATS",
+   "description": "Restore harmony of body, mind, and spirit with 3,000-year-old indigenous Ayurveda. Certified physician consultations, bespoke herbal oil therapies, lakeside dawn meditation, and nourishing sattvic cuisine.",
+   "overviewTitle": "Ancient Botanical Wisdom & Deep Restorative Solace",
+   "overviewText": "Ayurveda in Sri Lanka is a living sacred science refined over millennia. In our peaceful coastal and lakeside wellness sanctuaries, skilled Ayurvedic physicians design personalized panchakarma and rejuvenation protocols.",
+   "watermark": "holistic harmony",
+   "heroImage": "assets/images/temple-culture.jpg",
+   "mapHeading": "Discover Sri Lanka’s Holistic Sanctuaries",
+   "mapDescription": "Explore restorative sanctuaries nestled beside peaceful lagoons, herbal forest groves, and secluded southern beaches."
+  },
+  "hero": {
+   "badge": "",
+   "title": "Sri Lanka Ayurvedic & Wellness Retreats",
+   "accent": "Sacred Healing & Holistic Rejuvenation",
+   "lead": "Restore harmony of body, mind, and spirit with 3,000-year-old indigenous Ayurveda. Certified physician consultations, bespoke herbal oil therapies, lakeside dawn meditation, and nourishing sattvic cuisine.",
+   "primaryCta": "",
+   "secondaryCta": "",
+   "image": "/assets/images/cultural/kandy-temple-of-tooth-4.webp"
+  },
+  "overview": {
+   "watermark": "HOLISTIC HARMONY",
+   "title": "Ancient Botanical Wisdom & Deep Restorative Solace",
+   "accent": "",
+   "paragraphs": [
+    "Ayurveda in Sri Lanka is a living sacred science refined over millennia. In our peaceful coastal and lakeside wellness sanctuaries, skilled Ayurvedic physicians design personalized panchakarma and rejuvenation protocols."
+   ]
+  },
+  "packagesSection": {
+   "watermark": "",
+   "title": "",
+   "accent": "",
+   "subtitle": "",
+   "cards": [
+    {
+     "slug": "lotus-ayu-holistic-rejuvenation",
+     "image": "/assets/images/cultural/kandy-temple-of-tooth-4.webp",
+     "badge": "Wellness",
+     "duration": "9 Nights / 10 Days",
+     "label": "SACRED BOTANICAL HEALING • MINDFULNESS • YOGA RETREATS",
+     "title": "Lotus Ayu Holistic Rejuvenation",
+     "route": "Negombo • Wadduwa • Bentota • Colombo",
+     "desc": "A restorative sanctuary escape dedicated to authentic physician-led panchakarma and tranquil rejuvenation.",
+     "highlights": [
+      "Private initial pulse diagnosis & dosha consultation with senior Vaidya physician",
+      "Daily bespoke 2.5-hour Ayurvedic treatments (Shirodhara, Abhyanga, Pinda Sweda)",
+      "Sunrise yoga and pranayama breathwork overlooking calm Indian Ocean",
+      "Individualized sattvic organic meal plan prepared according to your dosha"
+     ]
+    },
+    {
+     "slug": "sacred-serenity-forest-meditation-retreat",
+     "image": "/assets/images/cultural/kandy-temple-of-tooth-4.webp",
+     "badge": "Meditation",
+     "duration": "13 Nights / 10 Days",
+     "label": "SACRED BOTANICAL HEALING • MINDFULNESS • YOGA RETREATS",
+     "title": "Sacred Serenity & Forest Meditation Retreat",
+     "route": "Colombo • Dambulla • Kandy • Bentota",
+     "desc": "Combine ancient Buddhist meditation, forest monasteries, and Ayurvedic restorative healing.",
+     "highlights": [
+      "Silent morning walking meditation in ancient forest monastery caves",
+      "Private audience and Dhamma discussion with senior Buddhist monastic scholar",
+      "7 Days of restorative authentic Ayurvedic therapies at a secluded coastal sanctuary",
+      "Sound bowl healing session and oil lamp blessing ceremony"
+     ]
+    }
+   ]
+  },
+  "comparisonIntro": {
+   "eyebrow": "SIDE-BY-SIDE ITINERARY COMPARISON",
+   "title": "Compare Destinations & Sights",
+   "note": "Review how each Ayurvedic itinerary traverses Sri Lanka’s iconic destinations, cultural landmarks, and nature reserves."
+  },
+  "circuit": {
+   "eyebrow": "✦ HOLISTIC AYURVEDIC SANCTUARIES & VEDIC HEALING",
+   "quote": "“Ancient healing wisdom whispered through medicinal forests, restorative herbal therapies, and deep serenity for mind, body, and spirit.”",
+   "quoteCaption": "Lotus Ceylon Wellness Journeys",
+   "title": "Discover Sri Lanka’s Holistic Sanctuary Routes:",
+   "accent": "Authentic Panchakarma, Herbal Gardens & Ocean Serenity",
+   "leadHtml": "Rooted in over 5,000 years of unbroken Vedic and Hela-Veda traditions, our wellness journeys offer profound physical and spiritual rejuvenation. Stay in secluded forest retreats and coastal wellness sanctuaries where resident Ayurvedic doctors (Vaidyas) prescribe custom daily therapies, including warm herbal oil Shirodhara, restorative steam baths, guided dawn yoga, and farm-to-table organic Ayurvedic nutrition.",
+   "label": "Signature Wellness Circuit:",
+   "stops": [
+    "Negombo Wellness Coast",
+    "Sigiriya Forest Sanctuaries",
+    "Kandy Herbal Valleys",
+    "Southern Ocean Healing Pavilions"
+   ],
+   "highlights": [
+    "Resident Ayurvedic Vaidya Doctors",
+    "Daily Custom Panchakarma Therapies",
+    "Dawn Meditation & Forest Bathing",
+    "Tridoshic Farm-to-Table Cuisine"
+   ],
+   "ctaPrimary": "Plan Your Custom Tour ➔",
+   "ctaWhatsapp": "💬 Chat on WhatsApp"
+  },
+  "planCta": {
+   "eyebrow": "PURE JOURNEYS • SACRED EXPERIENCES",
+   "title": "Ready to Plan Your Sri Lanka Ayurvedic & Holistic Wellness Retreats?",
+   "text": "Every single day, boutique stay, and transfer is customized entirely around you. Our destination experts craft your personalized itinerary tailored to your travel dates and pace.",
+   "buttons": [
+    {
+     "label": "Design Your Custom Journey",
+     "href": "/inquiry?category=ayurvedic"
+    },
+    {
+     "label": "WhatsApp Specialist (+94 71 54 22 384)",
+     "href": "https://wa.me/94715422384"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "honeymoon",
+  "metaTitle": "Sri Lanka Luxury Honeymoon Tours & Romantic Escapes | Lotus Ceylon",
+  "metaDescription": "Tailor-made luxury honeymoons in Sri Lanka by Lotus Ceylon. Private pool villas, candlelit beach dinners, and romantic boutique hideaways.",
+  "data": {
+   "title": "Sri Lanka Luxury Honeymoon Tours",
+   "titleHighlight": "& Romantic Coastal Hideaways",
+   "tagline": "INTIMATE LUXURY • SECLUDED BAYS • CANDLELIT RAMPS",
+   "description": "Celebrate your love in an enchanted tropical paradise. Secluded oceanfront plunge pool villas, private candlelight dinners on historic ramparts, scenic railway journeys, and starlit safari luxury glamping.",
+   "overviewTitle": "Boutique Intimacy, Golden Sunsets & Bespoke Romance",
+   "overviewText": "Ceylon creates the ultimate setting for romance. From hand-in-hand sunset walks along Galle's centuries-old ramparts to sipping champagne beside private mountain infinity pools, our honeymoon journeys are crafted exclusively for two.",
+   "watermark": "pure romance",
+   "heroImage": "assets/images/couple-travel.jpg",
+   "mapHeading": "Discover Sri Lanka’s Romantic Hideaways",
+   "mapDescription": "Follow romantic trails connecting secluded private villas, emerald tea estates, and wild safari camps."
+  },
+  "hero": {
+   "badge": "",
+   "title": "Sri Lanka Luxury Honeymoon Tours",
+   "accent": "Romantic Coastal & Highland Hideaways",
+   "lead": "Celebrate your love in an enchanted tropical paradise. Secluded oceanfront plunge pool villas, private candlelight dinners on historic ramparts, scenic railway journeys, and starlit safari luxury glamping.",
+   "primaryCta": "",
+   "secondaryCta": "",
+   "image": "/assets/images/honeymoon/seaside-villa-1.webp"
+  },
+  "overview": {
+   "watermark": "PURE ROMANCE",
+   "title": "Boutique Intimacy, Golden Sunsets & Bespoke Romance",
+   "accent": "",
+   "paragraphs": [
+    "Ceylon creates the ultimate setting for romance. From hand-in-hand sunset walks along Galle's centuries-old ramparts to sipping champagne beside private mountain infinity pools, our honeymoon journeys are crafted exclusively for two."
+   ]
+  },
+  "packagesSection": {
+   "watermark": "",
+   "title": "",
+   "accent": "",
+   "subtitle": "",
+   "cards": [
+    {
+     "slug": "enchanted-ceylon-romantic-hideaway",
+     "image": "/assets/images/honeymoon/seaside-villa-1.webp",
+     "badge": "Honeymoon",
+     "duration": "8 Nights / 9 Days",
+     "label": "INTIMATE LUXURY • SECLUDED BAYS • CANDLELIT RAMPS",
+     "title": "Enchanted Ceylon Romantic Hideaway",
+     "route": "Negombo • Kandy • Tea Trails • Galle Fort • Tangalle",
+     "desc": "Private plunge pool villas, misty tea trails, candlelit rampart dining, and secluded southern bays.",
+     "highlights": [
+      "Handpicked secluded private pool villas throughout the journey",
+      "Private champagne high tea overlooking emerald valleys in Ceylon Tea Trails",
+      "Romantic 5-course candlelight dinner on the historic ramparts of Galle Dutch Fort",
+      "Couples signature aromatherapy spa ritual with warm virgin coconut oil"
+     ]
+    },
+    {
+     "slug": "pure-serenade-coastal-highland-romance",
+     "image": "/assets/images/honeymoon/seaside-villa-1.webp",
+     "badge": "Grand Honeymoon",
+     "duration": "11 Nights / 12 Days",
+     "label": "INTIMATE LUXURY • SECLUDED BAYS • CANDLELIT RAMPS",
+     "title": "Pure Serenade Coastal & Highland Romance",
+     "route": "Colombo • Cultural Triangle • Nuwara Eliya • Yala • Mirissa",
+     "desc": "An intimate grand tour uniting ancient water gardens, mist-clad peaks, wild safari glamping, and turquoise oceans.",
+     "highlights": [
+      "Private sunset champagne climb of Sigiriya Rock Fortress",
+      "Luxury tented safari glamping in Yala with private plunge pool",
+      "Scenic first-class railway ride through tea-carpeted mountains",
+      "Private sunrise whale watching catamaran charter in Mirissa"
+     ]
+    }
+   ]
+  },
+  "comparisonIntro": {
+   "eyebrow": "SIDE-BY-SIDE ITINERARY COMPARISON",
+   "title": "Compare Destinations & Sights",
+   "note": "Review how each Honeymoon itinerary traverses Sri Lanka’s iconic destinations, cultural landmarks, and nature reserves."
+  },
+  "circuit": {
+   "eyebrow": "✦ INTIMATE LUXURY & ROMANTIC CEYLON HAVENS",
+   "quote": "“Two souls adrift in paradise — candlelit dinners beneath palm canopies, private hilltop villas, and unforgettable Indian Ocean sunsets.”",
+   "quoteCaption": "Lotus Ceylon Romantic Collections",
+   "title": "Discover Sri Lanka’s Romantic Haven Routes:",
+   "accent": "Private Plunge Pools, Sunset Catamarans & Candlelit Escapes",
+   "leadHtml": "Celebrate the beginning of your lifelong journey in peerless tropical romance. Our honeymoon itineraries feature handpicked boutique hideaways, private plunge-pool ocean villas, champagne sunset catamaran sails, couples' Ayurvedic aromatherapy treatments, private plantation candlelit dinners under starlit skies, and discreet, bespoke concierge service tailored around your rhythm.",
+   "label": "Signature Romance Circuit:",
+   "stops": [
+    "Negombo Private Villa",
+    "Sigiriya Boutique Pavilion",
+    "Tea Trails Highlands",
+    "Ella Mountain View Suite",
+    "Mirissa Secluded Cove"
+   ],
+   "highlights": [
+    "Sunset Catamaran Cruise with Champagne",
+    "Private Plunge-Pool Boutique Villas",
+    "Private Tea Estate Candlelit Dinners",
+    "Sunrise Hot Air Balloon Flight"
+   ],
+   "ctaPrimary": "Plan Your Custom Tour ➔",
+   "ctaWhatsapp": "💬 Chat on WhatsApp"
+  },
+  "planCta": {
+   "eyebrow": "PURE JOURNEYS • SACRED EXPERIENCES",
+   "title": "Ready to Plan Your Sri Lanka Luxury Honeymoon Tours?",
+   "text": "Every single day, boutique stay, and transfer is customized entirely around you. Our destination experts craft your personalized itinerary tailored to your travel dates and pace.",
+   "buttons": [
+    {
+     "label": "Design Your Custom Journey",
+     "href": "/inquiry?category=honeymoon"
+    },
+    {
+     "label": "WhatsApp Specialist (+94 71 54 22 384)",
+     "href": "https://wa.me/94715422384"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "family",
+  "metaTitle": "Sri Lanka Family Tours & Multi-Generational Holidays | Lotus Ceylon",
+  "metaDescription": "Plan a stress-free family holiday in Sri Lanka. Child-friendly wildlife safaris, turtle hatcheries, spacious vehicles, and family resorts.",
+  "data": {
+   "title": "Sri Lanka Family Holiday Packages",
+   "titleHighlight": "& Multi-Generational Journeys",
+   "tagline": "SAFE EXPEDITIONS • LIVING NATURE • TIMELESS BONDING",
+   "description": "Create unforgettable memories across generations. Engaging wildlife safaris, baby sea turtle hatcheries, gentle train rides, scenic mountain walks, and family-friendly beach resorts tailored to children and elders alike.",
+   "overviewTitle": "Wholesome Wonder, Gentle Wildlife & Inspiring Discovery",
+   "overviewText": "Sri Lanka is warm, safe, and endlessly captivating for families. We balance rich educational discoveries with spacious private vehicles, child-safe boutique resorts, and relaxed travel paces that respect every family member.",
+   "watermark": "family bond",
+   "heroImage": "assets/images/hero-nine-arches.jpg",
+   "mapHeading": "Discover Sri Lanka’s Family Travel Routes",
+   "mapDescription": "Follow family-friendly routes connecting turtle hatcheries, elephant transit homes, and golden swimming bays."
+  },
+  "hero": {
+   "badge": "",
+   "title": "Sri Lanka Family Holiday Packages",
+   "accent": "Wonder, Wildlife & Multi-Generational Journeys",
+   "lead": "Create unforgettable memories across generations. Engaging wildlife safaris, baby sea turtle hatcheries, gentle train rides, scenic mountain walks, and family-friendly beach resorts tailored to children and elders alike.",
+   "primaryCta": "",
+   "secondaryCta": "",
+   "image": "/assets/images/hill-country/nine-arches-bridge-1.webp"
+  },
+  "overview": {
+   "watermark": "FAMILY BOND",
+   "title": "Wholesome Wonder, Gentle Wildlife & Inspiring Discovery",
+   "accent": "",
+   "paragraphs": [
+    "Sri Lanka is warm, safe, and endlessly captivating for families. We balance rich educational discoveries with spacious private vehicles, child-safe boutique resorts, and relaxed travel paces that respect every family member."
+   ]
+  },
+  "packagesSection": {
+   "watermark": "",
+   "title": "",
+   "accent": "",
+   "subtitle": "",
+   "cards": [
+    {
+     "slug": "island-wonder-multi-gen-family-discovery",
+     "image": "/assets/images/hill-country/nine-arches-bridge-1.webp",
+     "badge": "Family Friendly",
+     "duration": "9 Nights / 10 Days",
+     "label": "SAFE EXPEDITIONS • LIVING NATURE • TIMELESS BONDING",
+     "title": "Island Wonder Multi-Gen Family Discovery",
+     "route": "Negombo • Pinnawala • Sigiriya • Kandy • Nuwara Eliya • Bentota",
+     "desc": "Safe, gentle, and deeply engaging exploration for grandparents, parents, and children alike.",
+     "highlights": [
+      "Spacious private luxury air-conditioned passenger van with family-specialist driver",
+      "Gentle elephant bath viewing at Pinnawala Elephant Orphanage",
+      "Interactive village bullock cart ride and Sri Lankan bread-making class",
+      "Kosgoda Sea Turtle Hatchery where kids release newborn hatchlings into the ocean"
+     ]
+    },
+    {
+     "slug": "wild-safari-coastal-family-holiday",
+     "image": "/assets/images/wildlife/yala-leopard-1.webp",
+     "badge": "Safari",
+     "duration": "11 Nights / 12 Days",
+     "label": "SAFE EXPEDITIONS • LIVING NATURE • TIMELESS BONDING",
+     "title": "Wild Safari & Coastal Family Holiday",
+     "route": "Colombo • Minneriya • Kandy • Ella • Yala • Galle • Mirissa",
+     "desc": "The ideal blend of exciting animal encounters, rainforest wonders, and warm golden beach relaxation.",
+     "highlights": [
+      "Witness wild elephant gatherings in Minneriya National Park",
+      "Visit the Udawalawe Elephant Transit Home during baby milk feeding time",
+      "Yala National Park jeep safari tracking leopards, sloth bears, and crocodiles",
+      "Walk the historic 17th-century ramparts of Galle Fort and enjoy artisanal gelato"
+     ]
+    },
+    {
+     "slug": "the-grand-ceylon-family-adventure",
+     "image": "/assets/images/hill-country/nine-arches-bridge-1.webp",
+     "badge": "Grand Family",
+     "duration": "13 Nights / 14 Days",
+     "label": "SAFE EXPEDITIONS • LIVING NATURE • TIMELESS BONDING",
+     "title": "The Grand Ceylon Family Adventure",
+     "route": "Negombo • Wilpattu • Cultural Triangle • Kandy • Scenic Train • Bentota",
+     "desc": "Two magical weeks covering ancient wonders, wild national parks, scenic rail, and coastal water sports.",
+     "highlights": [
+      "Wilpattu National Park safari with natural lake (Villu) landscapes",
+      "Sigiriya rock fortress and traditional chena village cooking experience",
+      "Kandy to Ella scenic mountain railway journey in first-class seats",
+      "Bentota watersports: banana boat, gentle jet-ski, and river mangrove safari"
+     ]
+    }
+   ]
+  },
+  "comparisonIntro": {
+   "eyebrow": "SIDE-BY-SIDE ITINERARY COMPARISON",
+   "title": "Compare Destinations & Sights",
+   "note": "Review how each Family itinerary traverses Sri Lanka’s iconic destinations, cultural landmarks, and nature reserves."
+  },
+  "circuit": {
+   "eyebrow": "✦ MULTI-GENERATIONAL ADVENTURE & COMFORT",
+   "quote": "“Cherished multi-generational memories crafted in safety, comfort, and wonder — where young eyes marvel at wild giants and ancient fortresses.”",
+   "quoteCaption": "Lotus Ceylon Family Holidays",
+   "title": "Discover Sri Lanka’s Family Travel Circuits:",
+   "accent": "Gentle Wildlife, Safe Beaches & Inspiring Interactive Culture",
+   "leadHtml": "Traveling with family across multiple generations requires a delicate balance of pace, comfort, and wonder. Our family itineraries feature spacious private air-conditioned touring vehicles (luxury vans and SUVs), family suite accommodations with interconnecting rooms, gentle wildlife safaris, baby elephant feeding visits, interactive pottery and cooking workshops, and calm, child-safe swimming coves along the southern coast.",
+   "label": "Signature Family Circuit:",
+   "stops": [
+    "Negombo Lagoon",
+    "Sigiriya Citadel",
+    "Kandy Botanical Gardens",
+    "Scenic Mountain Railway",
+    "Yala Elephant Safari",
+    "Bentota Calm Bay"
+   ],
+   "highlights": [
+    "Baby Elephant Transit Home Visits",
+    "Safe, Shallow Swimming Bays",
+    "Spacious Private Luxury Vans",
+    "Interactive Turtle Hatcheries"
+   ],
+   "ctaPrimary": "Plan Your Custom Tour ➔",
+   "ctaWhatsapp": "💬 Chat on WhatsApp"
+  },
+  "planCta": {
+   "eyebrow": "PURE JOURNEYS • SACRED EXPERIENCES",
+   "title": "Ready to Plan Your Sri Lanka Family Holiday Packages?",
+   "text": "Every single day, boutique stay, and transfer is customized entirely around you. Our destination experts craft your personalized itinerary tailored to your travel dates and pace.",
+   "buttons": [
+    {
+     "label": "Design Your Custom Journey",
+     "href": "/inquiry?category=family"
+    },
+    {
+     "label": "WhatsApp Specialist (+94 71 54 22 384)",
+     "href": "https://wa.me/94715422384"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "adventure",
+  "metaTitle": "Sri Lanka Adventure Tours & Active Expeditions | Lotus Ceylon",
+  "metaDescription": "Experience thrilling adventure holidays in Sri Lanka. White water rafting, Knuckles trekking, Ella zip-lining, and private guided expeditions.",
+  "data": {
+   "title": "Sri Lanka Adventure & Active Expeditions",
+   "titleHighlight": "& Wild Outdoor Trails",
+   "tagline": "WILD RAPIDS • PEAK ASCENTS • OCEAN SURF",
+   "description": "Challenge your spirit across raw, untamed terrain. White water rafting down raging Kelani rapids, trekking the misty Knuckles wilderness, cliffside zip-lining in Ella, and catching world-class waves at sunrise.",
+   "overviewTitle": "Raging Rivers, Sacred Summits & Ocean Swells",
+   "overviewText": "Sri Lanka's dramatic topography concentrates world-class outdoor thrills within a few hours of travel. From high-altitude mountain trekking to ocean wave surfing and canyoning, every day offers a new pulse-racing expedition.",
+   "watermark": "untamed pulse",
+   "heroImage": "assets/images/adventure.jpg",
+   "mapHeading": "Discover Sri Lanka’s Adventure Corridors",
+   "mapDescription": "Track adrenaline routes spanning river canyons, cloud forest peaks, and rugged surf bays."
+  },
+  "hero": {
+   "badge": "",
+   "title": "Sri Lanka Adventure & Active Expeditions",
+   "accent": "Wild Outdoor Trails & Whitewater Rapids",
+   "lead": "Challenge your spirit across raw, untamed terrain. White water rafting down raging Kelani rapids, trekking the misty Knuckles wilderness, cliffside zip-lining in Ella, and catching world-class waves at sunrise.",
+   "primaryCta": "",
+   "secondaryCta": "",
+   "image": "/assets/images/adventure/kitulgala-rafting-1.webp"
+  },
+  "overview": {
+   "watermark": "UNTAMED PULSE",
+   "title": "Raging Rivers, Sacred Summits & Ocean Swells",
+   "accent": "",
+   "paragraphs": [
+    "Sri Lanka's dramatic topography concentrates world-class outdoor thrills within a few hours of travel. From high-altitude mountain trekking to ocean wave surfing and canyoning, every day offers a new pulse-racing expedition."
+   ]
+  },
+  "packagesSection": {
+   "watermark": "",
+   "title": "",
+   "accent": "",
+   "subtitle": "",
+   "cards": [
+    {
+     "slug": "island-adrenaline-rapids-expedition",
+     "image": "/assets/images/adventure/kitulgala-rafting-1.webp",
+     "badge": "Active",
+     "duration": "7 Nights / 8 Days",
+     "label": "WILD RAPIDS • PEAK ASCENTS • OCEAN SURF",
+     "title": "Island Adrenaline & Rapids Expedition",
+     "route": "Colombo • Kitulgala • Knuckles • Ella • Mirissa",
+     "desc": "Grade III white water rapids, jungle canyoning, Knuckles cloud trekking, and southern ocean surf.",
+     "highlights": [
+      "Grade III & IV white water rafting down the surging Kelani River",
+      "Knuckles Mountain Range cloud forest trek with wilderness survival guide",
+      "Flying Ravana mega zip-line & abseiling in Ella",
+      "Private morning surf lesson with ISA-certified instructor in Weligama Bay"
+     ]
+    },
+    {
+     "slug": "wild-peaks-trails-surf-safari",
+     "image": "/assets/images/adventure/kitulgala-rafting-1.webp",
+     "badge": "Rainforest",
+     "duration": "10 Nights / 11 Days",
+     "label": "WILD RAPIDS • PEAK ASCENTS • OCEAN SURF",
+     "title": "Wild Peaks, Trails & Surf Safari",
+     "route": "Negombo • Sinharaja • Ella • Arugam Bay • Yala",
+     "desc": "From the deep virgin canopy of Sinharaja to high-altitude peaks and legendary eastern point breaks.",
+     "highlights": [
+      "Deep virgin trek through UNESCO Sinharaja Biosphere Reserve",
+      "Camping under equatorial stars in Arugam Bay surf lagoons",
+      "Surfing the iconic right-hand point breaks of Arugam Bay and Whiskey Point",
+      "Rugged 4x4 off-road safari tracking leopards in Yala East (Kumana)"
+     ]
+    }
+   ]
+  },
+  "comparisonIntro": {
+   "eyebrow": "SIDE-BY-SIDE ITINERARY COMPARISON",
+   "title": "Compare Destinations & Sights",
+   "note": "Review how each Adventure itinerary traverses Sri Lanka’s iconic destinations, cultural landmarks, and nature reserves."
+  },
+  "circuit": {
+   "eyebrow": "✦ HIGH-ADRENALINE WILDERNESS & OCEAN EXPEDITIONS",
+   "quote": "“Ceylon is an island sculpted for thrills — navigate roaring river rapids, scale mist-wrapped granite peaks, and ride ocean trade winds.”",
+   "quoteCaption": "Lotus Ceylon Active Expeditions",
+   "title": "Discover Sri Lanka’s High-Adrenaline Routes:",
+   "accent": "River Rapids, Mountain Treks, Kite Surfing & Cloud Forests",
+   "leadHtml": "From the thundering grade 3 and 4 white water rapids of the Kelani River in <strong>Kitulgala</strong> to the razorback ridges of the <strong>Knuckles Mountain Range</strong> and the world-class kite-surfing trade winds of the <strong>Kalpitiya Peninsula</strong>, Sri Lanka is a world-class adventure playground. All expeditions are supported by internationally certified adventure instructors, top-tier safety equipment, and private support logistics.",
+   "label": "Signature Adventure Circuit:",
+   "stops": [
+    "Kitulgala River Rapids",
+    "Knuckles Wilderness",
+    "Adam’s Peak Summit",
+    "Ella Adventure Ridge",
+    "Kalpitiya Wind Lagoons"
+   ],
+   "highlights": [
+    "Grade 3-4 White Water Rafting",
+    "Knuckles Cloud Forest Ridge Treks",
+    "Kalpitiya Flatwater Kite Surfing",
+    "Waterfall Abseiling & Canyon Scrambles"
+   ],
+   "ctaPrimary": "Plan Your Custom Tour ➔",
+   "ctaWhatsapp": "💬 Chat on WhatsApp"
+  },
+  "planCta": {
+   "eyebrow": "PURE JOURNEYS • SACRED EXPERIENCES",
+   "title": "Ready to Plan Your Sri Lanka Adventure & Active Expeditions?",
+   "text": "Every single day, boutique stay, and transfer is customized entirely around you. Our destination experts craft your personalized itinerary tailored to your travel dates and pace.",
+   "buttons": [
+    {
+     "label": "Design Your Custom Journey",
+     "href": "/inquiry?category=adventure"
+    },
+    {
+     "label": "WhatsApp Specialist (+94 71 54 22 384)",
+     "href": "https://wa.me/94715422384"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "golf",
+  "metaTitle": "Sri Lanka Golf Tours & Championship Fairway Holidays | Lotus Ceylon",
+  "metaDescription": "Play golf in Sri Lanka with Lotus Ceylon. Royal Colombo Golf Club, Victoria Golf Resort, and colonial Nuwara Eliya Golf Club.",
+  "data": {
+   "title": "Sri Lanka Golf Holidays & Championship Tours",
+   "titleHighlight": "& Historic Fairways",
+   "tagline": "COLONIAL GREENS • CHAMPIONSHIP LINKS • TROPICAL FAIRWAYS",
+   "description": "Tee off across Asia’s most scenic and historic courses. The 1879 Royal Colombo Golf Club, Donald Steel’s breathtaking Victoria Golf Resort in Kandy, the colonial Nuwara Eliya Golf Club, and oceanfront coastal links.",
+   "overviewTitle": "Historic Colonial Fairways, Mountain Backdrops & Coastal Greens",
+   "overviewText": "Sri Lanka's golf legacy dates back more than 140 years. Experience the rare pleasure of golfing amidst cool mountain mist in Nuwara Eliya, alongside the Victoria reservoir, and across historic manicured colonial parklands.",
+   "watermark": "fairway greens",
+   "heroImage": "assets/images/tea-country.jpg",
+   "mapHeading": "Discover Sri Lanka’s Championship Golf Courses",
+   "mapDescription": "Connect Colombo's heritage links, Kandy's reservoir championship greens, and Nuwara Eliya's historic pine fairways."
+  },
+  "hero": {
+   "badge": "",
+   "title": "Sri Lanka Golf Holidays & Championship Tours",
+   "accent": "Historic Fairways & Highland Links",
+   "lead": "Tee off across Asia’s most scenic and historic courses. The 1879 Royal Colombo Golf Club, Donald Steel’s breathtaking Victoria Golf Resort in Kandy, the colonial Nuwara Eliya Golf Club, and oceanfront coastal links.",
+   "primaryCta": "",
+   "secondaryCta": "",
+   "image": "/assets/images/hill-country/nuwara-eliya-tea-2.webp"
+  },
+  "overview": {
+   "watermark": "FAIRWAY GREENS",
+   "title": "Historic Colonial Fairways, Mountain Backdrops & Coastal Greens",
+   "accent": "",
+   "paragraphs": [
+    "Sri Lanka's golf legacy dates back more than 140 years. Experience the rare pleasure of golfing amidst cool mountain mist in Nuwara Eliya, alongside the Victoria reservoir, and across historic manicured colonial parklands."
+   ]
+  },
+  "packagesSection": {
+   "watermark": "",
+   "title": "",
+   "accent": "",
+   "subtitle": "",
+   "cards": [
+    {
+     "slug": "the-royal-ceylon-fairways-tour",
+     "image": "/assets/images/hill-country/nuwara-eliya-tea-2.webp",
+     "badge": "Championship Golf",
+     "duration": "6 Nights / 7 Days",
+     "label": "COLONIAL GREENS • CHAMPIONSHIP LINKS • TROPICAL FAIRWAYS",
+     "title": "The Royal Ceylon Fairways Tour",
+     "route": "Colombo • Kandy",
+     "desc": "Tee off at Asia’s oldest golf clubs: Royal Colombo and Donald Steel’s spectacular Victoria Golf Resort.",
+     "highlights": [
+      "18 Holes at Royal Colombo Golf Club (Founded 1879, second oldest outside the UK)",
+      "36 Holes at Victoria Golf Resort in Kandy, ranked among the world’s top 100 most scenic courses",
+      "Pre-booked guaranteed prime morning tee times with private caddies and golf carts",
+      "Stay in luxury fairway villas overlooking Victoria reservoir"
+     ]
+    },
+    {
+     "slug": "highland-greens-coastal-links-championship",
+     "image": "/assets/images/hill-country/nuwara-eliya-tea-2.webp",
+     "badge": "Full Circuit",
+     "duration": "9 Nights / 10 Days",
+     "label": "COLONIAL GREENS • CHAMPIONSHIP LINKS • TROPICAL FAIRWAYS",
+     "title": "Highland Greens & Coastal Links Championship",
+     "route": "Colombo • Kandy • Nuwara Eliya • Hambantota",
+     "desc": "The complete golf circuit: colonial fairways, highland pine greens, and oceanfront coastal links.",
+     "highlights": [
+      "Play 4 premier courses: Royal Colombo, Victoria Kandy, Nuwara Eliya Golf Club, and Shangri-La Hambantota",
+      "Tee off at 1,890 meters altitude in Nuwara Eliya’s 1889 colonial pine-lined fairways",
+      "18-hole coastal links play with ocean breezes at Shangri-La Golf Resort",
+      "Non-golfing partner luxury spa packages and cultural excursions included"
+     ]
+    },
+    {
+     "slug": "the-grand-ceylon-masters-golf-odyssey",
+     "image": "/assets/images/hill-country/nuwara-eliya-tea-2.webp",
+     "badge": "Masters Odyssey",
+     "duration": "11 Nights / 12 Days",
+     "label": "COLONIAL GREENS • CHAMPIONSHIP LINKS • TROPICAL FAIRWAYS",
+     "title": "The Grand Ceylon Masters Golf Odyssey",
+     "route": "Colombo • Kandy • Nuwara Eliya • Hambantota • Galle",
+     "desc": "The ultimate luxury golfing journey: 6 rounds across championship courses with 5★ boutique hospitality.",
+     "highlights": [
+      "6 Full 18-hole championship rounds across Sri Lanka’s premier golf resorts",
+      "Exclusive VIP tournament-level caddy allocation and pre-booked tee times",
+      "Luxury private helicopter transfer option between Colombo and Kandy",
+      "Unlimited driving range balls and complimentary club tune-up"
+     ]
+    }
+   ]
+  },
+  "comparisonIntro": {
+   "eyebrow": "SIDE-BY-SIDE ITINERARY COMPARISON",
+   "title": "Compare Destinations & Sights",
+   "note": "Review how each Golf itinerary traverses Sri Lanka’s iconic destinations, cultural landmarks, and nature reserves."
+  },
+  "circuit": {
+   "eyebrow": "✦ CHAMPIONSHIP FAIRWAYS & COLONIAL HERITAGE",
+   "quote": "“Tee off across colonial fairways surrounded by misty peaks, royal botanical gardens, and championship coastal greens.”",
+   "quoteCaption": "Lotus Ceylon Golfing Collections",
+   "title": "Discover Sri Lanka’s Heritage Golf Circuits:",
+   "accent": "140+ Years of Golfing Splendour Across Hills and Coasts",
+   "leadHtml": "Sri Lanka boasts an extraordinary golfing pedigree dating back to 1879. Our curated golf circuits combine play across the historic tree-lined fairways of the <strong>Royal Colombo Golf Club</strong>, the breathtaking Donald Steel-designed <strong>Victoria Golf Resort</strong> nestled along the Victoria Reservoir in Kandy, the crisp alpine course of <strong>Nuwara Eliya</strong> (6,000 ft altitude), and the championship ocean greens of <strong>Shangri-La Hambantota</strong>.",
+   "label": "Signature Golf Circuit:",
+   "stops": [
+    "Royal Colombo Golf Club (est. 1879)",
+    "Victoria Golf Resort (Kandy)",
+    "Nuwara Eliya Highland Golf Club",
+    "Shangri-La Hambantota Ocean Links"
+   ],
+   "highlights": [
+    "140+ Years Historic Golf Clubs",
+    "Donald Steel Designed Championship Course",
+    "Highland Altitude Golf at 6,000 ft",
+    "PGA-Certified Caddies & Seamless Logistics"
+   ],
+   "ctaPrimary": "Plan Your Custom Tour ➔",
+   "ctaWhatsapp": "💬 Chat on WhatsApp"
+  },
+  "planCta": {
+   "eyebrow": "PURE JOURNEYS • SACRED EXPERIENCES",
+   "title": "Ready to Plan Your Sri Lanka Golf Holidays & Championship Tours?",
+   "text": "Every single day, boutique stay, and transfer is customized entirely around you. Our destination experts craft your personalized itinerary tailored to your travel dates and pace.",
+   "buttons": [
+    {
+     "label": "Design Your Custom Journey",
+     "href": "/inquiry?category=golf"
+    },
+    {
+     "label": "WhatsApp Specialist (+94 71 54 22 384)",
+     "href": "https://wa.me/94715422384"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "ramayana",
+  "metaTitle": "Sri Lanka Ramayana Tour Packages & Sacred Pilgrimages | Lotus Ceylon",
+  "metaDescription": "Discover sacred Ramayana tours in Sri Lanka with Lotus Ceylon. Visit Seetha Amman Temple, Munneswaram, Ravana Cave, and Koneswaram.",
+  "data": {
+   "title": "Sri Lanka Ramayana Heritage Tours",
+   "titleHighlight": "& Sacred Legend Trails",
+   "tagline": "EPIC LEGENDS • SACRED SHRINES • ANCIENT CHRONICLES",
+   "description": "Walk in the footsteps of Sri Rama, Sita Devi, Lakshmana, and Hanuman. From Munneswaram and Koneswaram temples to Seetha Amman Temple and Ravana Falls, immerse in the living tapestry of the Ramayana epic.",
+   "overviewTitle": "Sacred Geography, Ancient Shrines & Timeless Epics",
+   "overviewText": "Sri Lanka holds over 50 prominent sites intrinsically linked to the ancient Ramayana epic. Our scholarly guides bring the Ramayana to life with deep devotional respect, comfortable chauffeured journeys, and authentic temple pujas.",
+   "watermark": "sacred epic",
+   "heroImage": "assets/images/polonnaruwa.jpg",
+   "mapHeading": "Discover Sri Lanka’s Sacred Ramayana Trail",
+   "mapDescription": "Trace sacred Ramayana sites from Chilaw and Trincomalee across the central hills to Nuwara Eliya and Ella."
+  },
+  "hero": {
+   "badge": "",
+   "title": "Sri Lanka Sacred Ramayana Heritage Tours",
+   "accent": "Epic Shrines & Spiritual Legend Trails",
+   "lead": "Walk in the footsteps of Sri Rama, Sita Devi, Lakshmana, and Hanuman. From Munneswaram and Koneswaram temples to Seetha Amman Temple and Ravana Falls, immerse in the living tapestry of the Ramayana epic.",
+   "primaryCta": "",
+   "secondaryCta": "",
+   "image": "/assets/images/cultural/polonnaruwa-gal-vihara-3.webp"
+  },
+  "overview": {
+   "watermark": "SACRED EPIC",
+   "title": "Sacred Geography, Ancient Shrines & Timeless Epics",
+   "accent": "",
+   "paragraphs": [
+    "Sri Lanka holds over 50 prominent sites intrinsically linked to the ancient Ramayana epic. Our scholarly guides bring the Ramayana to life with deep devotional respect, comfortable chauffeured journeys, and authentic temple pujas."
+   ]
+  },
+  "packagesSection": {
+   "watermark": "",
+   "title": "",
+   "accent": "",
+   "subtitle": "",
+   "cards": [
+    {
+     "slug": "sacred-ramayana-heritage-trail",
+     "image": "/assets/images/cultural/polonnaruwa-gal-vihara-3.webp",
+     "badge": "Pilgrimage",
+     "duration": "6 Nights / 7 Days",
+     "label": "EPIC LEGENDS • SACRED SHRINES • ANCIENT CHRONICLES",
+     "title": "Sacred Ramayana Heritage Trail",
+     "route": "Colombo • Chilaw • Kandy • Nuwara Eliya",
+     "desc": "Follow the legendary epic through Munneswaram, Manavari, Seetha Amman Temple, and Ashoka Vatika.",
+     "highlights": [
+      "Special puja blessing at Munneswaram Temple, one of the five ancient Ishwarams",
+      "Visit Manavari Temple where Lord Rama installed the first Shiva Lingam (Ramalingam)",
+      "Devotional morning darshan at Seetha Amman Temple in Seetha Eliya",
+      "Walk through Hakgala Botanical Gardens, the legendary Ashoka Vatika pleasure gardens"
+     ]
+    },
+    {
+     "slug": "the-epic-ramayana-chronicle-pilgrimage",
+     "image": "/assets/images/cultural/polonnaruwa-gal-vihara-3.webp",
+     "badge": "Full Pilgrimage",
+     "duration": "9 Nights / 10 Days",
+     "label": "EPIC LEGENDS • SACRED SHRINES • ANCIENT CHRONICLES",
+     "title": "The Epic Ramayana Chronicle Pilgrimage",
+     "route": "Colombo • Mannar • Jaffna • Trincomalee • Kandy • Nuwara Eliya • Ella",
+     "desc": "The ultimate 10-day cross-island pilgrimage tracing sacred shrines from Mannar to Nuwara Eliya and Ella.",
+     "highlights": [
+      "Visit Thiruketheeswaram Temple and Adam's Bridge (Rama Setu) in Mannar",
+      "Koneswaram Temple (Dakshina Kailasam) built on Swami Rock overlooking Trincomalee",
+      "Kanniya Hot Springs created by King Ravana with his sword",
+      "Seetha Amman Temple, Ashoka Vatika, and Divurumpola in the central highlands"
+     ]
+    }
+   ]
+  },
+  "comparisonIntro": {
+   "eyebrow": "SIDE-BY-SIDE ITINERARY COMPARISON",
+   "title": "Compare Destinations & Sights",
+   "note": "Review how each Ramayana itinerary traverses Sri Lanka’s iconic destinations, cultural landmarks, and nature reserves."
+  },
+  "circuit": {
+   "eyebrow": "✦ SACRED MYTHOLOGY & DIVINE SANCTUARIES",
+   "quote": "“Walk the sacred footsteps of the epic Ramayana across sanctified mountain grottos, timeless temples, and legendary battlegrounds.”",
+   "quoteCaption": "Lotus Ceylon Sacred Pilgrimages",
+   "title": "Discover the Sacred Ramayana Trail Circuits:",
+   "accent": "Divine Sanctuaries, Mythological Legends & Holy Shrines",
+   "leadHtml": "Follow the ancient epic of the Ramayana across Sri Lanka’s most revered pilgrimage sites. Pay homage at the legendary <strong>Munneswaram</strong> and <strong>Manavari</strong> Shiva temples, explore the mountain gardens of <strong>Ashoka Vatika</strong> and <strong>Seetha Amman Temple</strong>, visit the mysterious <strong>Ravana Cave</strong> and waterfalls in Ella, and witness the sacred site of <strong>Divurumpola</strong> where Sita Devi proved her devotion through the Agni Pariksha.",
+   "label": "Signature Ramayana Circuit:",
+   "stops": [
+    "Chilaw (Munneswaram)",
+    "Kandy",
+    "Nuwara Eliya (Ashoka Vatika & Seetha Amman)",
+    "Ella (Ravana Falls)",
+    "Divurumpola",
+    "Kelaniya Temple"
+   ],
+   "highlights": [
+    "Munneswaram & Manavari Lingams",
+    "Ashoka Vatika & Seetha Amman Temple",
+    "Divurumpola Agni Pariksha Temple",
+    "Ravana Cave & Cascading Waterfalls"
+   ],
+   "ctaPrimary": "Plan Your Custom Tour ➔",
+   "ctaWhatsapp": "💬 Chat on WhatsApp"
+  },
+  "planCta": {
+   "eyebrow": "PURE JOURNEYS • SACRED EXPERIENCES",
+   "title": "Ready to Plan Your Sri Lanka Ramayana Heritage Tours?",
+   "text": "Every single day, boutique stay, and transfer is customized entirely around you. Our destination experts craft your personalized itinerary tailored to your travel dates and pace.",
+   "buttons": [
+    {
+     "label": "Design Your Custom Journey",
+     "href": "/inquiry?category=ramayana"
+    },
+    {
+     "label": "WhatsApp Specialist (+94 71 54 22 384)",
+     "href": "https://wa.me/94715422384"
+    }
+   ]
+  }
+ }
+]

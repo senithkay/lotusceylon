@@ -1,0 +1,192 @@
+{
+ "filters": [
+  {
+   "key": "all",
+   "label": "All Imagery (18)"
+  },
+  {
+   "key": "sacred",
+   "label": "☸ Sacred & Buddhist (5)"
+  },
+  {
+   "key": "citadels",
+   "label": "🏛️ Kingdoms & Citadels (4)"
+  },
+  {
+   "key": "highlands",
+   "label": "⛰️ Tea Trails & Highlands (3)"
+  },
+  {
+   "key": "wildlife",
+   "label": "🐆 Wildlife & Marine (3)"
+  },
+  {
+   "key": "coastal",
+   "label": "🌊 Coastal Sanctuaries (3)"
+  }
+ ],
+ "items": [
+  {
+   "filter": "sacred",
+   "image": "/assets/images/cultural/kandy-temple-of-tooth-4.webp",
+   "alt": "Sacred Buddhist Temple Courtyard Ceremony",
+   "tag": "☸ Sacred Heritage",
+   "title": "Temple Courtyard Incense Offering",
+   "desc": "Reverent evening devotees offering jasmine blossoms and earthen oil lamps at the sacred Bodhi precinct.",
+   "location": "Anuradhapura · Living Pilgrimage"
+  },
+  {
+   "filter": "citadels",
+   "image": "/assets/images/cultural/sigiriya-1.webp",
+   "alt": "Sigiriya Lion Rock Citadel",
+   "tag": "🏛️ UNESCO Citadel",
+   "title": "Sigiriya Fortress of the Cloud Realm",
+   "desc": "The 5th-century rock citadel rising 200 metres sheer above emerald jungle canopy and water gardens.",
+   "location": "Cultural Triangle · 5th Century Citadel"
+  },
+  {
+   "filter": "citadels",
+   "image": "/assets/images/cultural/polonnaruwa-gal-vihara-3.webp",
+   "alt": "Polonnaruwa Vatadage Sacred Relic House",
+   "tag": "🏛️ Ancient Kingdom",
+   "title": "Polonnaruwa Vatadage Circular Shrine",
+   "desc": "Masterwork medieval rock carving housing four seated granite Buddha statues facing the cardinal points.",
+   "location": "Medieval Capital · 12th Century"
+  },
+  {
+   "filter": "sacred",
+   "image": "/assets/images/cultural/kandy-temple-of-tooth-4.webp",
+   "alt": "Kandy Sri Dalada Maligawa Golden Canopy",
+   "tag": "☸ Sacred Relic",
+   "title": "Temple of the Sacred Tooth Relic",
+   "desc": "The golden-canopied sanctum sanctorum of Sri Dalada Maligawa on the shores of misty Kandy Lake.",
+   "location": "Kandy · UNESCO World Heritage"
+  },
+  {
+   "filter": "sacred",
+   "image": "/assets/images/buddhist-heritage/ruwanwelisaya-2.webp",
+   "alt": "Ruwanwelisaya Great White Stupa",
+   "tag": "☸ Sacred Stupa",
+   "title": "Ruwanwelisaya Stupa at Sunset",
+   "desc": "The towering white stupa built by King Dutugemunu in 140 BC, surrounded by the elephant stone frieze.",
+   "location": "Anuradhapura · Ancient Capital"
+  },
+  {
+   "filter": "sacred",
+   "image": "/assets/images/cultural/dambulla-cave-temple-2.webp",
+   "alt": "Dambulla Golden Cave Murals",
+   "tag": "☸ Monastic Caves",
+   "title": "Dambulla Rock Cave Murals",
+   "desc": "Five painted rock cave sanctuaries adorned with 2,100 square metres of murals and 157 Buddha statues.",
+   "location": "Dambulla · Living Monastic Sanctuary"
+  },
+  {
+   "filter": "highlands",
+   "image": "/assets/images/hill-country/nine-arches-bridge-1.webp",
+   "alt": "Demodara Nine Arches Bridge Ella",
+   "tag": "⛰️ Highland Wonder",
+   "title": "Demodara Nine Arches Viaduct",
+   "desc": "The colonial stone railway bridge standing gracefully amid deep highland forest and misty tea plantations.",
+   "location": "Ella · 3,100ft Altitude"
+  },
+  {
+   "filter": "highlands",
+   "image": "/assets/images/hill-country/nuwara-eliya-tea-2.webp",
+   "alt": "Nuwara Eliya Tea Country Terraces",
+   "tag": "⛰️ Ceylon Tea Trails",
+   "title": "Verdant Valleys of Little England",
+   "desc": "Rolling green contours of high-grown Ceylon tea estates framed by cascading waterfalls and eucalyptus forests.",
+   "location": "Nuwara Eliya · Central Highlands"
+  },
+  {
+   "filter": "highlands",
+   "image": "/assets/images/hill-country/ella-rock-3.webp",
+   "alt": "Ella Rock Trek and Mountain Ridge",
+   "tag": "⛰️ Ridge Treks",
+   "title": "Ella Gap & Little Adam's Peak",
+   "desc": "Panoramic morning views across the southern plains from the razorback ridge of Little Adam's Peak.",
+   "location": "Ella · Highlands"
+  },
+  {
+   "filter": "wildlife",
+   "image": "/assets/images/wildlife/yala-leopard-1.webp",
+   "alt": "Sri Lankan Leopard on Granite Rock",
+   "tag": "🐆 Apex Predator",
+   "title": "The Phantom of Yala",
+   "desc": "The endemic Sri Lankan leopard (Panthera pardus kotiya) resting on sun-warmed coastal granite boulders.",
+   "location": "Yala National Park · Southern Savanna"
+  },
+  {
+   "filter": "wildlife",
+   "image": "/assets/images/wildlife/minneriya-elephant-gathering-2.webp",
+   "alt": "Asian Elephant Herd at Minneriya Gathering",
+   "tag": "🐘 Elephant Gathering",
+   "title": "The Great Asian Elephant Gathering",
+   "desc": "Hundreds of wild elephants congregating on the lush green tank-bed of Minneriya in dry season harmony.",
+   "location": "Minneriya National Park"
+  },
+  {
+   "filter": "wildlife",
+   "image": "/assets/images/wildlife/sinharaja-rainforest-5.webp",
+   "alt": "Sinharaja Primary Rainforest Canopy",
+   "tag": "🌿 UNESCO Biosphere",
+   "title": "Sinharaja Virgin Rainforest",
+   "desc": "Sri Lanka's last viable primary tropical rainforest, harboring 95% of the island's endemic bird species.",
+   "location": "Sinharaja Forest Reserve"
+  },
+  {
+   "filter": "coastal",
+   "image": "/assets/images/honeymoon/mirissa-sunset-2.webp",
+   "alt": "Mirissa Bay Sunset and Ocean Catamaran",
+   "tag": "🌊 Ocean Sunset",
+   "title": "Mirissa Gold-Hour Horizon",
+   "desc": "Sunset sailing over Indian Ocean trenches where deep-water Blue Whales and Spinner Dolphins gather.",
+   "location": "Mirissa · South Coast"
+  },
+  {
+   "filter": "citadels",
+   "image": "/assets/images/cultural/galle-fort-5.webp",
+   "alt": "Galle Fort Lighthouse and Dutch Ramparts",
+   "tag": "🏛️ UNESCO Fort",
+   "title": "Galle Fort Ocean Ramparts",
+   "desc": "Living 17th-century maritime fortress featuring coral-stone bastions, cobblestone lanes, and colonial spice trade mansions.",
+   "location": "Galle · Southern Province"
+  },
+  {
+   "filter": "coastal",
+   "image": "/assets/images/beach/pasikudah-5.webp",
+   "alt": "Passikudah and Nilaveli Calm Turquoise Bay",
+   "tag": "🌊 Calm Lagoon",
+   "title": "Passikudah Crystal Reef Lagoon",
+   "desc": "Pristine white-sand shallow reef waters where you can walk hundreds of metres out into the warm, transparent sea.",
+   "location": "Passikudah · East Coast"
+  },
+  {
+   "filter": "coastal",
+   "image": "/assets/images/beach/mirissa-1.webp",
+   "alt": "Tangalle Secluded Golden Beach",
+   "tag": "🌊 Golden Haven",
+   "title": "Tangalle Secluded Coves",
+   "desc": "Wild coconut palms bowing over turquoise breaking swells, secluded boutique retreats, and turtle nesting shores.",
+   "location": "Tangalle · Deep South"
+  },
+  {
+   "filter": "coastal",
+   "image": "/assets/images/beach/unawatuna-2.webp",
+   "alt": "Bentota Golden Sand Peninsula",
+   "tag": "🌊 Coastal Leisure",
+   "title": "Bentota Golden Peninsula",
+   "desc": "Where the tranquil freshwater river meets the Indian Ocean swell, designed by architect Geoffrey Bawa.",
+   "location": "Bentota · West Coast"
+  },
+  {
+   "filter": "sacred",
+   "image": "/assets/images/honeymoon/seaside-villa-1.webp",
+   "alt": "Private Tea Plantation Stroll",
+   "tag": "☸ Intimate Moments",
+   "title": "Serene Contemplation in the Hills",
+   "desc": "Peaceful morning mist walks through heritage bungalows, private blessing ceremonies, and organic garden dining.",
+   "location": "Central Highlands"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+# Legacy static site (separate repository: kanchu12345/thai)
+/thai/
+# Database exports contain customer inquiry data — never commit
+/database/
+# Empty placeholder folder
+/lotusceylon/
+
+.DS_Store
+.playwright-mcp/
